@@ -1,0 +1,21 @@
+<meta>
+	<script src="client.luac" cache="false" type="client"/>
+	<script src="server.lua" type="server"/>
+	<script src="gui_c.luac" cache="false" type="client"/>
+
+	<file src="f/archivo_narrow.ttf"/>
+	<file src="f/digital.ttf"/>
+
+	<file src="i/btn_b.png"/>
+	<file src="i/btn_bh.png"/>
+	<file src="i/btn_r.png"/>
+	<file src="i/btn_rh.png"/>
+
+	<file src="maps/bmx.map" type="server" />
+	<file src="maps/parkour.map" type="server" />
+	<file src="maps/drag2.map" type="server" />
+	<file src="maps/jump_city.map" type="server" />
+	<file src="maps/kart.map" type="server" />
+	<file src="maps/wspinaczka.map" type="server" />
+	<file src="maps/akina.map" type="server" />
+</meta>

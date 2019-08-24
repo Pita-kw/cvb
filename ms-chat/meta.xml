@@ -1,0 +1,7 @@
+<meta>
+	<file src="images/voice.png" />
+	<file src="message.png" />
+	<script src="color_c.lua" cache="false" type="client" />
+	<script src="c.luac" cache="false" type="client" />
+	<script src="s.lua" type="server" />
+</meta>

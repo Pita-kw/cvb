@@ -1,0 +1,12 @@
+<meta>
+	<script src="klift_c.luac" cache="false" type="client"/>
+	<script src="gui_c.luac" cache="false" type="client"/>
+	<script src="klift_s.lua" type="server"/>
+	<file src="f/archivo_narrow.ttf" />
+	<file src="i/bg.png" />
+	<file src="i/btn_b.png" />
+	<file src="i/btn_bh.png" />
+	<file src="i/btn_r.png" />
+	<file src="i/btn_rh.png" />
+</meta>
+

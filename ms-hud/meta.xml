@@ -1,0 +1,105 @@
+<meta>
+	<info author="Brzysiek" version="1.0" name="MultiServer - HUD" />
+	
+	<file src="img/archivo_narrow.ttf" type="client" />
+	<file src="f/archivo_narrow.ttf" type="client" />
+	<file src="img/avatar.png" type="client" />
+	<file src="img/diamonds.png" type="client" />
+	<file src="img/time.png" type="client" />
+	<file src="img/money.png" type="client" />
+	
+	<file src="i/veh/engine.png" />
+	<file src="i/veh/hp.png" />
+	<file src="i/veh/jump.png" />
+	<file src="i/veh/nitro.png" />
+	
+	<file src="img/weapons/0.png" />
+	<file src="img/weapons/1.png" />
+	<file src="img/weapons/2.png" />
+	<file src="img/weapons/3.png" />
+	<file src="img/weapons/4.png" />
+	<file src="img/weapons/5.png" />
+	<file src="img/weapons/6.png" />
+	<file src="img/weapons/7.png" />
+	<file src="img/weapons/8.png" />
+	<file src="img/weapons/9.png" />
+	<file src="img/weapons/10.png" />
+	<file src="img/weapons/11.png" />
+	<file src="img/weapons/12.png" />
+	<file src="img/weapons/14.png" />
+	<file src="img/weapons/15.png" />
+	<file src="img/weapons/16.png" />
+	<file src="img/weapons/17.png" />
+	<file src="img/weapons/18.png" />
+	<file src="img/weapons/22.png" />
+	<file src="img/weapons/23.png" />
+	<file src="img/weapons/24.png" />
+	<file src="img/weapons/25.png" />
+	<file src="img/weapons/26.png" />
+	<file src="img/weapons/27.png" />
+	<file src="img/weapons/28.png" />
+	<file src="img/weapons/29.png" />
+	<file src="img/weapons/30.png" />
+	<file src="img/weapons/31.png" />
+	<file src="img/weapons/32.png" />
+	<file src="img/weapons/33.png" />
+	<file src="img/weapons/34.png" />
+	<file src="img/weapons/35.png" />
+	<file src="img/weapons/36.png" />
+	<file src="img/weapons/37.png" />
+	<file src="img/weapons/38.png" />
+	<file src="img/weapons/39.png" />
+	<file src="img/weapons/40.png" />
+	<file src="img/weapons/41.png" />
+	<file src="img/weapons/42.png" />
+	<file src="img/weapons/43.png" />
+	<file src="img/weapons/44.png" />
+	<file src="img/weapons/45.png" />
+	<file src="img/weapons/46.png" />
+	
+	<file src="img/0.png" />
+	<file src="img/1.png" />
+	<file src="img/2.png" />
+	<file src="img/3.png" />
+	<file src="img/4.png" />
+	<file src="img/5.png" />
+	<file src="img/6.png" />
+	<file src="img/7.png" />
+	<file src="img/8.png" />
+	<file src="img/9.png" />
+	<file src="img/10.png" />
+	<file src="img/11.png" />
+	<file src="img/12.png" />
+	<file src="img/13.png" />
+	<file src="img/14.png" />
+	<file src="img/15.png" />
+	<file src="img/16.png" />
+	<file src="img/17.png" />
+	<file src="img/18.png" />
+	<file src="img/19.png" />
+	<file src="img/20.png" />
+	<file src="img/21.png" />
+	<file src="img/22.png" />
+	<file src="img/23.png" />
+	<file src="img/24.png" />
+	<file src="img/25.png" />
+	<file src="img/26.png" />
+	<file src="img/27.png" />
+	<file src="img/28.png" />
+	<file src="img/29.png" />
+	<file src="img/30.png" />
+	<file src="img/31.png" />
+	<file src="img/32.png" />
+	<file src="img/33.png" />
+	<file src="img/34.png" />
+	<file src="img/35.png" />
+	<file src="img/36.png" />
+	
+	<script src="utils_c.luac" cache="false" type="client" />
+	<script src="c.lua" cache="false" type="client" />
+	<script src="odometer_c.luac" cache="false" type="client" />
+	
+	<export function="showHUD" type="client" />
+	<export function="getInterfacePosition" type="client"/>
+	<export function="getInterfaceZoom" type="client"/>
+</meta>

@@ -1,0 +1,15 @@
+<meta>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+
+	<script src="nametags.lua" type="client" cache="false"/>
+
+	<file src="i/afk_icon.png" />
+	<file src="i/chat_icon.png" />
+	<file src="i/premium_icon.png" />
+	<file src="i/seatbelt_icon.png" />
+	<file src="i/skull_icon.png" />
+	<file src="i/microphone.png" />
+	<file src="f/sr1.ttf" />
+	<file src="f/archivo_narrow.ttf" />
+	<file src="circle.png" />
+</meta>

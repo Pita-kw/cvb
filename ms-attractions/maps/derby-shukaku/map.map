@@ -1,0 +1,55 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (cen_bit_19) (1)" interior="0" collisions="true" alpha="255" doublesided="false" model="16209" scale="1" dimension="0" posX="1158.19995" posY="-3374.80005" posZ="-7.9" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" posX="1158" posY="-3328.1001" posZ="31.1" rotX="0" rotY="0" rotZ="0"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (2)" vehicle="411" alpha="255" interior="0" posX="1160" posY="-3369.30005" posZ="31.1" rotX="0" rotY="0" rotZ="177.314"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (3)" vehicle="411" alpha="255" interior="0" posX="1173.80005" posY="-3362.1001" posZ="31.1" rotX="0" rotY="0" rotZ="224.971"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (4)" vehicle="411" alpha="255" interior="0" posX="1179.19995" posY="-3347.80005" posZ="31.1" rotX="0" rotY="0" rotZ="271.975"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (5)" vehicle="411" alpha="255" interior="0" posX="1172.5" posY="-3334" posZ="31.1" rotX="0" rotY="0" rotZ="315.96"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (6)" vehicle="411" alpha="255" interior="0" posX="1145.30005" posY="-3334.80005" posZ="31.1" rotX="0" rotY="0" rotZ="44.396"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (7)" vehicle="411" alpha="255" interior="0" posX="1139.69995" posY="-3348.80005" posZ="31.1" rotX="0" rotY="0" rotZ="87.13"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (8)" vehicle="411" alpha="255" interior="0" posX="1146.09998" posY="-3361.30005" posZ="31.1" rotX="0" rotY="0" rotZ="135.853"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (9)" vehicle="411" alpha="255" interior="0" posX="1142.30005" posY="-3332" posZ="7.3" rotX="0" rotY="0" rotZ="48.122"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (10)" vehicle="411" alpha="255" interior="0" posX="1158.19995" posY="-3326.1001" posZ="7.3" rotX="0" rotY="0" rotZ="2.737"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (11)" vehicle="411" alpha="255" interior="0" posX="1173.69995" posY="-3332.80005" posZ="7.3" rotX="0" rotY="0" rotZ="316.748"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (12)" vehicle="411" alpha="255" interior="0" posX="1181.30005" posY="-3347.69995" posZ="7.3" rotX="0" rotY="0" rotZ="272.295"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (13)" vehicle="411" alpha="255" interior="0" posX="1174.40002" posY="-3363.30005" posZ="7.3" rotX="0" rotY="0" rotZ="225.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (14)" vehicle="411" alpha="255" interior="0" posX="1159.59998" posY="-3370.30005" posZ="7.3" rotX="0" rotY="0" rotZ="180.18"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (15)" vehicle="411" alpha="255" interior="0" posX="1144.80005" posY="-3363.3999" posZ="7.3" rotX="0" rotY="0" rotZ="132.519"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (16)" vehicle="411" alpha="255" interior="0" posX="1138.80005" posY="-3349.6001" posZ="7.3" rotX="0" rotY="0" rotZ="92.803"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (17)" vehicle="411" alpha="255" interior="0" posX="1110.09998" posY="-3350.3999" posZ="7.3" rotX="0" rotY="0" rotZ="92.802"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (18)" vehicle="411" alpha="255" interior="0" posX="1087" posY="-3350.80005" posZ="7.3" rotX="0" rotY="0" rotZ="92.802"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (19)" vehicle="411" alpha="255" interior="0" posX="1065.69995" posY="-3351.3999" posZ="7.3" rotX="0" rotY="0" rotZ="92.802"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (20)" vehicle="411" alpha="255" interior="0" posX="1031.69995" posY="-3351.3999" posZ="7.3" rotX="0" rotY="0" rotZ="92.802"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (21)" vehicle="411" alpha="255" interior="0" posX="1123.40002" posY="-3315.30005" posZ="7.3" rotX="0" rotY="0" rotZ="48.12"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (22)" vehicle="411" alpha="255" interior="0" posX="1105.69995" posY="-3298.5" posZ="7.3" rotX="0" rotY="0" rotZ="48.12"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (23)" vehicle="411" alpha="255" interior="0" posX="1088.90002" posY="-3283.5" posZ="7.3" rotX="0" rotY="0" rotZ="48.12"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (24)" vehicle="411" alpha="255" interior="0" posX="1067.09998" posY="-3262.6001" posZ="7.3" rotX="0" rotY="0" rotZ="48.12"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (25)" vehicle="411" alpha="255" interior="0" posX="1157" posY="-3293.8999" posZ="7.3" rotX="0" rotY="0" rotZ="2.736"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (26)" vehicle="411" alpha="255" interior="0" posX="1156.69995" posY="-3273.3999" posZ="7.3" rotX="0" rotY="0" rotZ="2.736"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (27)" vehicle="411" alpha="255" interior="0" posX="1156.30005" posY="-3252.5" posZ="7.3" rotX="0" rotY="0" rotZ="2.736"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (28)" vehicle="411" alpha="255" interior="0" posX="1154.90002" posY="-3220.30005" posZ="7.3" rotX="0" rotY="0" rotZ="2.736"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (29)" vehicle="411" alpha="255" interior="0" posX="1193.40002" posY="-3311.80005" posZ="7.3" rotX="0" rotY="0" rotZ="316.747"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (30)" vehicle="411" alpha="255" interior="0" posX="1209.5" posY="-3294.30005" posZ="7.3" rotX="0" rotY="0" rotZ="316.747"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (31)" vehicle="411" alpha="255" interior="0" posX="1225.5" posY="-3276.5" posZ="7.3" rotX="0" rotY="0" rotZ="316.747"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (32)" vehicle="411" alpha="255" interior="0" posX="1245.40002" posY="-3256.80005" posZ="7.3" rotX="0" rotY="0" rotZ="316.747"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (33)" vehicle="411" alpha="255" interior="0" posX="1209.80005" posY="-3346.3999" posZ="7.3" rotX="0" rotY="0" rotZ="272.291"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (34)" vehicle="411" alpha="255" interior="0" posX="1230.69995" posY="-3346.19995" posZ="7.3" rotX="0" rotY="0" rotZ="272.291"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (35)" vehicle="411" alpha="255" interior="0" posX="1257" posY="-3345.5" posZ="7.3" rotX="0" rotY="0" rotZ="272.291"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (36)" vehicle="411" alpha="255" interior="0" posX="1288.69995" posY="-3344" posZ="7.3" rotX="0" rotY="0" rotZ="272.291"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (37)" vehicle="411" alpha="255" interior="0" posX="1195.30005" posY="-3382.69995" posZ="7.3" rotX="0" rotY="0" rotZ="225.698"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (38)" vehicle="411" alpha="255" interior="0" posX="1211.40002" posY="-3397.6001" posZ="7.3" rotX="0" rotY="0" rotZ="225.698"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (39)" vehicle="411" alpha="255" interior="0" posX="1229.5" posY="-3415" posZ="7.3" rotX="0" rotY="0" rotZ="225.698"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (40)" vehicle="411" alpha="255" interior="0" posX="1250.59998" posY="-3434.8999" posZ="7.3" rotX="0" rotY="0" rotZ="225.698"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (41)" vehicle="411" alpha="255" interior="0" posX="1161.19995" posY="-3399.5" posZ="7.3" rotX="0" rotY="0" rotZ="180.176"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (42)" vehicle="411" alpha="255" interior="0" posX="1161.59998" posY="-3419.3999" posZ="7.3" rotX="0" rotY="0" rotZ="180.176"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (43)" vehicle="411" alpha="255" interior="0" posX="1162.19995" posY="-3448" posZ="7.3" rotX="0" rotY="0" rotZ="180.176"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (44)" vehicle="411" alpha="255" interior="0" posX="1162.80005" posY="-3473.5" posZ="7.3" rotX="0" rotY="0" rotZ="180.176"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (45)" vehicle="411" alpha="255" interior="0" posX="1123.30005" posY="-3385.6001" posZ="7.3" rotX="0" rotY="0" rotZ="134.654"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (46)" vehicle="411" alpha="255" interior="0" posX="1106.90002" posY="-3402.80005" posZ="7.3" rotX="0" rotY="0" rotZ="134.648"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (47)" vehicle="411" alpha="255" interior="0" posX="1089.5" posY="-3422" posZ="7.3" rotX="0" rotY="0" rotZ="134.648"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (48)" vehicle="411" alpha="255" interior="0" posX="1070.90002" posY="-3441" posZ="7.3" rotX="0" rotY="0" rotZ="134.648"></spawnpoint>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="1157" posY="-3268" posZ="29.8" rotX="0" rotY="0" rotZ="116.461"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="1157" posY="-3268" posZ="29.8" rotX="0" rotY="0" rotZ="146.7"></racepickup>
+    <racepickup id="racepickup (Dune) (1)" type="repair" vehicle="573" respawn="0" alpha="255" interior="0" posX="1157" posY="-3268" posZ="29.8" rotX="0" rotY="0" rotZ="184.32"></racepickup>
+    <racepickup id="racepickup (Dune) (2)" type="vehiclechange" vehicle="573" respawn="0" alpha="255" interior="0" posX="1157" posY="-3268" posZ="29.8" rotX="0" rotY="0" rotZ="204.12"></racepickup>
+</map>

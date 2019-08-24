@@ -1,0 +1,8 @@
+<meta>
+	<info author="http://Rick and xScatta" version="1.0.2" name="System's Dev" type="script" />
+    <min_mta_version client="1.4.1" server="1.4.1" />
+	<script src="Toll_S.lua" type="server"/>
+	<script src="Toll_C.luac" type="client" cache="false"/>
+	<file src="fonts/Karmatic_Arcade_Font.ttf" type="client" />
+    <file src="images/map.jpg" type="client" />
+</meta>

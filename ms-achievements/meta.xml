@@ -1,0 +1,44 @@
+<meta>
+	<file src="i/background.png" />
+	<file src="i/window.png" />
+	<file src="i/icons/alokoholik.png" />
+	<file src="i/icons/architekt.png" />
+	<file src="i/icons/biznesman_1.png" />
+	<file src="i/icons/biznesman_2.png" />
+	<file src="i/icons/biznesman_3.png" />
+	<file src="i/icons/cpun.png" />
+	<file src="i/icons/milioner.png" />
+	<file src="i/icons/mistrz_areny.png" />
+	<file src="i/icons/pedancik.png" />
+	<file src="i/icons/pierwsza_krew.png" />
+	<file src="i/icons/pierwsza_praca.png" />
+	<file src="i/icons/pierwszy_dom.png" />
+	<file src="i/icons/pierwszy_pojazd.png" />
+	<file src="i/icons/pierwszy_zgon.png" />
+	<file src="i/icons/pracoholik_1.png" />
+	<file src="i/icons/pracoholik_2.png" />
+	<file src="i/icons/pracoholik_3.png" />
+	<file src="i/icons/samobojca.png" />
+	<file src="i/icons/szpan.png" />
+	<file src="i/icons/zabojca_1.png" />
+	<file src="i/icons/zabojca_2.png" />
+	<file src="i/icons/zabojca_3.png" />
+	<file src="i/icons/zboczeniec.png" />
+	
+	<file src="i/archivo_narrow.ttf" />
+	<file src="sound.mp3" type="client" />
+
+	<script src="g_achievements.luac" cache="false" type="client" />
+	<script src="g_achievements.lua" type="server" />
+	<script src="achievement_s.lua" type="server" />
+
+	<export function="addClientAchievement" type="client" />
+	<export function="addAchievement" type="server" />
+	<export function="hasPlayerAchievement" type="server" />
+	<export function="getPlayerAchievements" type="server" />
+	<export function="getAchievementIcon" type="client" />
+	<export function="getAchievementDescription" type="client" />
+	<export function="getAchievementPoints" type="client" />
+	
+	<export function="getAchievementTable" type="client" />
+</meta>

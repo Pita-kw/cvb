@@ -1,0 +1,31 @@
+<meta>
+	<file src="archivo_narrow.ttf"/>
+	<file src="i/loading.png" />
+	<file src="i/manage_team.png" />
+	<file src="i/manage_advert.png" />
+	<file src="i/manage_gang.png" />
+	<file src="i/manage_color.png" />
+	<file src="i/manage_ranks.png" />
+	<file src="i/manage_logo.png" />
+	<file src="i/spray_tag.png" />
+	<min_mta_version server="1.3.2" />
+	<script src="gangs_c.luac" type="client" cache="false"/>
+	<script src="gang_details_c.luac" type="client" cache="false"/>
+	<script src="gangs_s.lua" type="server" />
+	<script src="level_s.lua" type="server" />
+	<script src="utils_c.luac" type="client" cache="false"/>
+	
+	<script src="tags_c.luac" type="client" cache="false" />
+	<script src="tags_s.lua" type="server" />
+	
+	<script src="areas_s.lua" type="server" />
+	
+	<map src="bases.map" type="server" />
+	<script src="base_c.lua" cache="false" type="client" />
+	<script src="base_s.lua" type="server" />
+
+	<export function="createDefaultGang" type="server" />
+	<export function="loadPlayerGang" type="server" />
+	<export function="giveGangExp" type="server" />
+	<export function="addGangKill" type="server" />
+</meta>

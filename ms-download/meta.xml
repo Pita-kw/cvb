@@ -1,0 +1,18 @@
+<meta>
+	<file src="i/background.jpg" type="client" />
+	<file src="i/dashboard.png" type="client" /> 
+	<file src="i/download_back.png" type="client" /> 
+	<file src="i/help.png" type="client" /> 
+	<file src="i/info_back.png" type="client" /> 
+	<file src="i/join_us.png" type="client" /> 
+	<file src="i/objects.png" type="client" /> 
+	<file src="i/order.png" type="client" /> 
+	<file src="i/vehicles.png" type="client" /> 
+	<file src="i/logo.png" type="client" />
+	<file src="BebasNeue.otf" type="client" />
+	<file src="archivo_narrow.ttf" type="client" />
+	
+	<download_priority_group>10</download_priority_group>
+	
+	<script src="c.luac" cache="false" type="client" />
+</meta>

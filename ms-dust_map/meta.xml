@@ -1,0 +1,35 @@
+<meta>
+    <info gamemodes="csrw" type="map" version="1.0.3" name="de_dust2_lm" author="SCM"> </info>
+    <map src="csrw_de_dust2_lm.map" dimension="0"></map>
+    <script src="c_main.lua" type="client"></script>
+    <file src="txd/Dust2.txd"></file>
+    <file src="dff/Dust2_01.dff"></file>
+    <file src="col/Dust2_01.col"></file>
+    <file src="dff/Dust2_02.dff"></file>
+    <file src="col/Dust2_02.col"></file>
+    <file src="dff/Dust2_03.dff"></file>
+    <file src="col/Dust2_03.col"></file>
+    <file src="dff/Dust2_04.dff"></file>
+    <file src="col/Dust2_04.col"></file>
+    <file src="dff/Dust2_05.dff"></file>
+    <file src="col/Dust2_05.col"></file>
+    <file src="dff/Dust2_06.dff"></file>
+    <file src="col/Dust2_06.col"></file>
+    <file src="dff/Dust2_07.dff"></file>
+    <file src="col/Dust2_07.col"></file>
+    <file src="dff/Dust2_08.dff"></file>
+    <file src="col/Dust2_08.col"></file>
+    <file src="dff/Dust2_09.dff"></file>
+    <file src="col/Dust2_09.col"></file>
+    <file src="smap/Dust2_01CompleteMap.tga"></file>
+    <file src="smap/Dust2_02CompleteMap.tga"></file>
+    <file src="smap/Dust2_03CompleteMap.tga"></file>
+    <file src="smap/Dust2_04CompleteMap.tga"></file>
+    <file src="smap/Dust2_05CompleteMap.tga"></file>
+    <file src="smap/Dust2_06CompleteMap.tga"></file>
+    <file src="smap/Dust2_07CompleteMap.tga"></file>
+    <file src="smap/Dust2_08CompleteMap.tga"></file>
+    <file src="smap/Dust2_09CompleteMap.tga"></file>
+    <file src="fx/dust2Smap.fx"></file>
+
+</meta>

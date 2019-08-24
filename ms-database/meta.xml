@@ -1,0 +1,8 @@
+<meta>
+	<info author="Brzysiek" version="1.0" name="MultiServer - Baza danych" />
+	<script src="database_s.lua" type="server" />
+	<export function="getRows" type="server" />
+	<export function="getSingleRow" type="server" />
+	<export function="query" type="server" />
+	<export function="query2" type="server" />
+</meta>

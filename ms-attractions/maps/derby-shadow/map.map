@@ -1,0 +1,122 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (cen_bit_19) (1)" interior="0" alpha="255" doublesided="false" model="16209" scale="1" dimension="0" posX="3854.7" posY="-1815.3" posZ="-14.6" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (1)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3741.3" posY="-1952.1" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (2)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3691.9" posY="-1917.8" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (3)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3671.8" posY="-1862.3" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (4)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3651.2" posY="-1787.4" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (5)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3703" posY="-1675.6" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (6)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3786" posY="-1611.9" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (7)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3897.9" posY="-1629.2" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (8)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3979.2" posY="-1657.4" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (9)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="4004.5" posY="-1717.4" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (10)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="4035.2" posY="-1852.9" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (11)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3952.5" posY="-1950.5" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (12)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3913.9" posY="-1984.6" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tree_hipoly14) (13)" interior="0" alpha="255" doublesided="false" model="734" scale="1" dimension="0" posX="3853.8" posY="-1988.7" posZ="-0.2" rotX="0" rotY="0" rotZ="0"></object>
+    <spawnpoint id="spawnpoint (Camper) (1)" vehicle="415" posX="3845.2" posY="-1787.6" posZ="2.9" rotX="0" rotY="0" rotZ="357.863"></spawnpoint>
+    <spawnpoint id="spawnpoint (Moonbeam) (2)" vehicle="415" alpha="255" interior="0" posX="3839.4" posY="-1789.2" posZ="2.9" rotX="0" rotY="0" rotZ="23.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Newsvan) (1)" vehicle="415" alpha="255" interior="0" posX="3850.4" posY="-1787.6" posZ="2.8" rotX="0" rotY="0" rotZ="330.086"></spawnpoint>
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="415" respawn="0" posX="3957.8" posY="-1879.8" posZ="2" rotX="0" rotY="0" rotZ="258.12"></racepickup>
+    <racepickup id="racepickup (NRG-500) (2)" type="repair" vehicle="415" respawn="0" alpha="255" interior="0" posX="3957.8" posY="-1879.8" posZ="2" rotX="0" rotY="0" rotZ="247.86"></racepickup>
+    <racepickup id="racepickup (Infernus) (1)" type="vehiclechange" vehicle="415" respawn="0" alpha="255" interior="0" posX="3957.8" posY="-1879.8" posZ="2" rotX="0" rotY="0" rotZ="25.92"></racepickup>
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="415" respawn="0" posX="3918.4" posY="-1914.7" posZ="3.3" rotX="0" rotY="0" rotZ="40.68"></racepickup>
+    <racepickup id="racepickup (NRG-500) (4)" type="repair" vehicle="415" respawn="0" alpha="255" interior="0" posX="3918.4" posY="-1914.7" posZ="3.3" rotX="0" rotY="0" rotZ="105.66"></racepickup>
+    <racepickup id="racepickup (Infernus) (2)" type="vehiclechange" vehicle="415" respawn="0" alpha="255" interior="0" posX="3918.4" posY="-1914.7" posZ="3.3" rotX="0" rotY="0" rotZ="5.22"></racepickup>
+    <racepickup id="racepickup (NRG-500) (5)" type="nitro" vehicle="522" respawn="0" posX="3831.6" posY="-1936" posZ="3.3" rotX="0" rotY="0" rotZ="316.26"></racepickup>
+    <racepickup id="racepickup (NRG-500) (6)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="3831.601" posY="-1936" posZ="3.3" rotX="0" rotY="0" rotZ="110.52"></racepickup>
+    <racepickup id="racepickup (Infernus) (3)" type="vehiclechange" vehicle="411" respawn="0" alpha="255" interior="0" posX="3831.601" posY="-1936" posZ="3.3" rotX="0" rotY="0" rotZ="132.48"></racepickup>
+    <racepickup id="racepickup (Infernus) (4)" type="vehiclechange" vehicle="411" respawn="0" posX="3709.5" posY="-1806.1" posZ="3.3" rotX="0" rotY="0" rotZ="315.72"></racepickup>
+    <racepickup id="racepickup (Infernus) (6)" type="vehiclechange" vehicle="411" respawn="0" posX="3908.2" posY="-1679.3" posZ="3.3" rotX="0" rotY="0" rotZ="285.12"></racepickup>
+    <racepickup id="racepickup (Infernus) (7)" type="vehiclechange" vehicle="411" respawn="0" posX="3981.8" posY="-1793.2" posZ="3.3" rotX="0" rotY="0" rotZ="327.42"></racepickup>
+    <racepickup id="racepickup (Infernus) (8)" type="vehiclechange" vehicle="411" respawn="0" alpha="255" interior="0" posX="3970.601" posY="-1743.8" posZ="3.3" rotX="0" rotY="0" rotZ="99.54"></racepickup>
+    <racepickup id="racepickup (Infernus) (9)" type="repair" vehicle="411" respawn="0" alpha="255" interior="0" posX="3867.5" posY="-1776.6" posZ="0" rotX="0" rotY="0" rotZ="46.98"></racepickup>
+    <racepickup id="racepickup (Infernus) (10)" type="nitro" vehicle="411" respawn="0" alpha="255" interior="0" posX="3981.8" posY="-1793.2" posZ="3.3" rotX="0" rotY="0" rotZ="102.06"></racepickup>
+    <racepickup id="racepickup (NRG-500) (7)" type="nitro" vehicle="522" respawn="0" posX="3820.3" posY="-1708.8" posZ="0.3" rotX="0" rotY="0" rotZ="118.44"></racepickup>
+    <racepickup id="racepickup (NRG-500) (8)" type="repair" vehicle="522" respawn="0" posX="3817.9" posY="-1696.5" posZ="0" rotX="0" rotY="0" rotZ="323.28"></racepickup>
+    <racepickup id="racepickup (DFT-30) (1)" type="vehiclechange" vehicle="578" respawn="0" posX="3865.9" posY="-1795" posZ="42.5" rotX="0" rotY="0" rotZ="315.54"></racepickup>
+    <racepickup id="racepickup (Flatbed) (2)" type="vehiclechange" vehicle="455" respawn="0" alpha="255" interior="0" posX="3822.9" posY="-1791.5" posZ="42.5" rotX="0" rotY="0" rotZ="48.6"></racepickup>
+    <racepickup id="racepickup (Cement Truck) (2)" type="vehiclechange" vehicle="524" respawn="0" alpha="255" interior="0" posX="3840.7" posY="-1776.8" posZ="42.5" rotX="0" rotY="0" rotZ="314.46"></racepickup>
+    <racepickup id="racepickup (Dune) (2)" type="vehiclechange" vehicle="573" respawn="0" alpha="255" interior="0" posX="3860.8" posY="-1783.4" posZ="42.5" rotX="0" rotY="0" rotZ="203.76"></racepickup>
+    <racepickup id="racepickup (Fire Truck) (1)" type="vehiclechange" vehicle="407" respawn="0" alpha="255" interior="0" posX="3860.1" posY="-1807.2" posZ="42.5" rotX="0" rotY="0" rotZ="211.5"></racepickup>
+    <racepickup id="racepickup (Barracks) (1)" type="vehiclechange" vehicle="433" respawn="0" alpha="255" interior="0" posX="3850.3" posY="-1815.7" posZ="42.5" rotX="0" rotY="0" rotZ="133.38"></racepickup>
+    <racepickup id="racepickup (Rhino) (1)" type="vehiclechange" vehicle="432" respawn="0" alpha="255" interior="0" posX="3845.3" posY="-1800.3" posZ="54.1" rotX="0" rotY="0" rotZ="235.98"></racepickup>
+    <racepickup id="racepickup (Monster 3) (1)" type="vehiclechange" vehicle="557" respawn="0" posX="3832.3" posY="-1816.3" posZ="42.5" rotX="0" rotY="0" rotZ="177.66"></racepickup>
+    <racepickup id="racepickup (FBI Truck) (1)" type="vehiclechange" vehicle="528" respawn="0" alpha="255" interior="0" posX="3826.1" posY="-1805.2" posZ="42.5" rotX="0" rotY="0" rotZ="127.62"></racepickup>
+    <marker id="marker (arrow) (1)" type="arrow" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="3761.5" posY="-1728.4" posZ="26.6" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (arrow) (2)" type="arrow" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="3733.9" posY="-1719.3" posZ="4" rotX="0" rotY="0" rotZ="0"></marker>
+    <marker id="marker (arrow) (3)" type="arrow" color="#0000ffff" size="1" interior="0" dimension="0" alpha="255" posX="3779.9" posY="-1735.6" posZ="41.4" rotX="0" rotY="0" rotZ="0"></marker>
+    <racepickup id="racepickup (NRG-500) (9)" type="nitro" vehicle="522" respawn="0" posX="3779.8" posY="-1735.5" posZ="40.5" rotX="0" rotY="0" rotZ="157.32"></racepickup>
+    <racepickup id="racepickup (NRG-500) (10)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="3779.8" posY="-1735.5" posZ="40.5" rotX="0" rotY="0" rotZ="227.16"></racepickup>
+    <racepickup id="racepickup (NRG-500) (11)" type="nitro" vehicle="522" respawn="0" posX="3733.2" posY="-1718.9" posZ="2" rotX="0" rotY="0" rotZ="322.38"></racepickup>
+    <racepickup id="racepickup (NRG-500) (12)" type="repair" vehicle="522" respawn="0" alpha="255" interior="0" posX="3733.2" posY="-1718.9" posZ="2" rotX="0" rotY="0" rotZ="232.02"></racepickup>
+    <spawnpoint id="spawnpoint (Bobcat) (1)" vehicle="415" alpha="255" interior="0" posX="3855.5" posY="-1792.5" posZ="2.8" rotX="0" rotY="0" rotZ="298.313"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sadler) (1)" vehicle="415" alpha="255" interior="0" posX="3857.6" posY="-1797.1" posZ="2.8" rotX="0" rotY="0" rotZ="275.552"></spawnpoint>
+    <spawnpoint id="spawnpoint (Yosemite) (1)" vehicle="415" alpha="255" interior="0" posX="3851" posY="-1812.1" posZ="2.8" rotX="0" rotY="0" rotZ="199.789"></spawnpoint>
+    <spawnpoint id="spawnpoint (Utility Van) (1)" vehicle="415" alpha="255" interior="0" posX="3833.6" posY="-1803.7" posZ="2.5" rotX="0" rotY="0" rotZ="104.193"></spawnpoint>
+    <spawnpoint id="spawnpoint (Picador) (2)" vehicle="415" alpha="255" interior="0" posX="3846.9" posY="-1813.5" posZ="2.8" rotX="0" rotY="0" rotZ="188.031"></spawnpoint>
+    <spawnpoint id="spawnpoint (FBI Rancher) (1)" vehicle="415" alpha="255" interior="0" posX="3832.7" posY="-1798" posZ="3" rotX="0" rotY="0" rotZ="74.275"></spawnpoint>
+    <spawnpoint id="spawnpoint (Police SF) (1)" vehicle="415" alpha="255" interior="0" posX="3834.3" posY="-1792.8" posZ="3" rotX="0" rotY="0" rotZ="56.111"></spawnpoint>
+    <spawnpoint id="spawnpoint (Police LV) (1)" vehicle="415" alpha="255" interior="0" posX="3814.1" posY="-1778.4" posZ="3" rotX="0" rotY="0" rotZ="135.166"></spawnpoint>
+    <spawnpoint id="spawnpoint (Police Ranger) (1)" vehicle="415" alpha="255" interior="0" posX="3827.3" posY="-1767.2" posZ="3" rotX="0" rotY="0" rotZ="130.891"></spawnpoint>
+    <spawnpoint id="spawnpoint (Buffalo) (1)" vehicle="415" alpha="255" interior="0" posX="3844" posY="-1761.9" posZ="3" rotX="0" rotY="0" rotZ="75.336"></spawnpoint>
+    <spawnpoint id="spawnpoint (Cheetah) (1)" vehicle="415" alpha="255" interior="0" posX="3863" posY="-1766.4" posZ="3" rotX="0" rotY="0" rotZ="75.333"></spawnpoint>
+    <spawnpoint id="spawnpoint (Banshee) (1)" vehicle="415" alpha="255" interior="0" posX="3878.2" posY="-1782.9" posZ="3" rotX="0" rotY="0" rotZ="17.642"></spawnpoint>
+    <spawnpoint id="spawnpoint (Turismo) (1)" vehicle="415" alpha="255" interior="0" posX="3883.5" posY="-1801.7" posZ="3" rotX="0" rotY="0" rotZ="14.433"></spawnpoint>
+    <spawnpoint id="spawnpoint (ZR-350) (1)" vehicle="415" alpha="255" interior="0" posX="3877.9" posY="-1819.4" posZ="3" rotX="0" rotY="0" rotZ="314.602"></spawnpoint>
+    <spawnpoint id="spawnpoint (Comet) (1)" vehicle="415" alpha="255" interior="0" posX="3861.4" posY="-1835.1" posZ="3" rotX="0" rotY="0" rotZ="314.599"></spawnpoint>
+    <spawnpoint id="spawnpoint (Super GT) (1)" vehicle="415" alpha="255" interior="0" posX="3842.7" posY="-1837.6" posZ="3" rotX="0" rotY="0" rotZ="252.634"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (1)" vehicle="415" alpha="255" interior="0" posX="3823.8" posY="-1832.5" posZ="3" rotX="0" rotY="0" rotZ="252.631"></spawnpoint>
+    <spawnpoint id="spawnpoint (Uranus) (1)" vehicle="415" alpha="255" interior="0" posX="3811.9" posY="-1817.2" posZ="3" rotX="0" rotY="0" rotZ="194.939"></spawnpoint>
+    <spawnpoint id="spawnpoint (Jester) (1)" vehicle="415" alpha="255" interior="0" posX="3806.4" posY="-1798.8" posZ="3" rotX="0" rotY="0" rotZ="194.936"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sultan) (1)" vehicle="415" alpha="255" interior="0" posX="3793.2" posY="-1796.9" posZ="3" rotX="0" rotY="0" rotZ="161.817"></spawnpoint>
+    <spawnpoint id="spawnpoint (Elegy) (1)" vehicle="415" alpha="255" interior="0" posX="3799.5" posY="-1772.2" posZ="3" rotX="0" rotY="0" rotZ="161.812"></spawnpoint>
+    <spawnpoint id="spawnpoint (Flash) (1)" vehicle="415" alpha="255" interior="0" posX="3818.3" posY="-1753.9" posZ="3" rotX="0" rotY="0" rotZ="104.12"></spawnpoint>
+    <spawnpoint id="spawnpoint (Euros) (1)" vehicle="415" alpha="255" interior="0" posX="3844.5" posY="-1747.2" posZ="3" rotX="0" rotY="0" rotZ="104.117"></spawnpoint>
+    <spawnpoint id="spawnpoint (Alpha) (1)" vehicle="415" alpha="255" interior="0" posX="3872.8" posY="-1753.4" posZ="3" rotX="0" rotY="0" rotZ="46.426"></spawnpoint>
+    <spawnpoint id="spawnpoint (Phoenix) (1)" vehicle="415" alpha="255" interior="0" posX="3891.5" posY="-1774.6" posZ="3" rotX="0" rotY="0" rotZ="46.423"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bravura) (1)" vehicle="415" alpha="255" interior="0" posX="3897.1" posY="-1802.5" posZ="2.7" rotX="0" rotY="0" rotZ="342.136"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hermes) (1)" vehicle="415" alpha="255" interior="0" posX="3889.9" posY="-1828.9" posZ="2.7" rotX="0" rotY="0" rotZ="342.131"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hustler) (1)" vehicle="415" alpha="255" interior="0" posX="3870.3" posY="-1845.7" posZ="2.7" rotX="0" rotY="0" rotZ="282.303"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tampa) (1)" vehicle="415" alpha="255" interior="0" posX="3844.1" posY="-1852" posZ="2.7" rotX="0" rotY="0" rotZ="282.299"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sabre) (1)" vehicle="415" alpha="255" interior="0" posX="3818" posY="-1843.9" posZ="2.7" rotX="0" rotY="0" rotZ="224.562"></spawnpoint>
+    <spawnpoint id="spawnpoint (Voodoo) (1)" vehicle="415" alpha="255" interior="0" posX="3799.3" posY="-1824.5" posZ="2.7" rotX="0" rotY="0" rotZ="224.561"></spawnpoint>
+    <spawnpoint id="spawnpoint (Buccaneer) (1)" vehicle="415" alpha="255" interior="0" posX="3694.7" posY="-1718.8" posZ="2.6" rotX="0" rotY="0" rotZ="313.001"></spawnpoint>
+    <spawnpoint id="spawnpoint (Remington) (1)" vehicle="415" alpha="255" interior="0" posX="3665.6" posY="-1748.8" posZ="2.6" rotX="0" rotY="0" rotZ="249.452"></spawnpoint>
+    <spawnpoint id="spawnpoint (Remington) (2)" vehicle="415" alpha="255" interior="0" posX="3672.7" posY="-1780.6" posZ="2.6" rotX="0" rotY="0" rotZ="194.964"></spawnpoint>
+    <spawnpoint id="spawnpoint (Slamvan) (1)" vehicle="415" alpha="255" interior="0" posX="3687" posY="-1839.8" posZ="2.6" rotX="0" rotY="0" rotZ="283.637"></spawnpoint>
+    <spawnpoint id="spawnpoint (Savanna) (1)" vehicle="415" alpha="255" interior="0" posX="3730" posY="-1828.6" posZ="2.6" rotX="0" rotY="0" rotZ="283.637"></spawnpoint>
+    <spawnpoint id="spawnpoint (Tornado) (1)" vehicle="415" alpha="255" interior="0" posX="3764.9" posY="-1819.3" posZ="2.6" rotX="0" rotY="0" rotZ="284.702"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sentinel) (1)" vehicle="415" alpha="255" interior="0" posX="3798.3" posY="-1810.8" posZ="2.6" rotX="0" rotY="0" rotZ="284.7"></spawnpoint>
+    <spawnpoint id="spawnpoint (Taxi) (1)" vehicle="415" alpha="255" interior="0" posX="3692.9" posY="-1869.1" posZ="2.6" rotX="0" rotY="0" rotZ="192.824"></spawnpoint>
+    <spawnpoint id="spawnpoint (Admiral) (1)" vehicle="415" alpha="255" interior="0" posX="3711" posY="-1928.5" posZ="2.6" rotX="0" rotY="0" rotZ="315.169"></spawnpoint>
+    <spawnpoint id="spawnpoint (Stratum) (1)" vehicle="561" alpha="255" interior="0" posX="3957.1" posY="-1662.2" posZ="2.9" rotX="0" rotY="0" rotZ="75.98"></spawnpoint>
+    <spawnpoint id="spawnpoint (Vincent) (1)" vehicle="540" alpha="255" interior="0" posX="3761.1" posY="-1880.5" posZ="2.6" rotX="0" rotY="0" rotZ="315.165"></spawnpoint>
+    <spawnpoint id="spawnpoint (Stafford) (1)" vehicle="580" alpha="255" interior="0" posX="3822.3" posY="-1822.1" posZ="2.6" rotX="0" rotY="0" rotZ="315.169"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sunrise) (2)" vehicle="550" alpha="255" interior="0" posX="3797.7" posY="-1845.7" posZ="2.6" rotX="0" rotY="0" rotZ="315.165"></spawnpoint>
+    <spawnpoint id="spawnpoint (Greenwood) (2)" vehicle="492" alpha="255" interior="0" posX="3729.7" posY="-1936.2" posZ="2.6" rotX="0" rotY="0" rotZ="253.757"></spawnpoint>
+    <spawnpoint id="spawnpoint (Solair) (2)" vehicle="458" alpha="255" interior="0" posX="3814.2" posY="-1960" posZ="2.7" rotX="0" rotY="0" rotZ="253.757"></spawnpoint>
+    <spawnpoint id="spawnpoint (Patriot) (2)" vehicle="470" alpha="255" interior="0" posX="3900.4" posY="-1972.5" posZ="2.7" rotX="0" rotY="0" rotZ="128.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Patriot) (3)" vehicle="470" alpha="255" interior="0" posX="3905.601" posY="-1967.5" posZ="2.7" rotX="0" rotY="0" rotZ="315.159"></spawnpoint>
+    <spawnpoint id="spawnpoint (Rancher) (2)" vehicle="489" alpha="255" interior="0" posX="3965.2" posY="-1910" posZ="2.8" rotX="0" rotY="0" rotZ="315.159"></spawnpoint>
+    <spawnpoint id="spawnpoint (Sandking) (2)" vehicle="495" alpha="255" interior="0" posX="4020.4" posY="-1833.5" posZ="3.1" rotX="0" rotY="0" rotZ="15.035"></spawnpoint>
+    <spawnpoint id="spawnpoint (Mesa) (2)" vehicle="500" alpha="255" interior="0" posX="3999.9" posY="-1750.6" posZ="3.3" rotX="0" rotY="0" rotZ="15.035"></spawnpoint>
+    <spawnpoint id="spawnpoint (Monster 1) (1)" vehicle="444" alpha="255" interior="0" posX="3885.2" posY="-1660" posZ="2.9" rotX="0" rotY="0" rotZ="164.556"></spawnpoint>
+    <spawnpoint id="spawnpoint (Huntley) (2)" vehicle="579" alpha="255" interior="0" posX="3788.4" posY="-1629" posZ="2.6" rotX="0" rotY="0" rotZ="315.946"></spawnpoint>
+    <spawnpoint id="spawnpoint (Huntley) (3)" vehicle="579" alpha="255" interior="0" posX="3783" posY="-1635.2" posZ="2.6" rotX="0" rotY="0" rotZ="139.054"></spawnpoint>
+    <spawnpoint id="spawnpoint (Club) (2)" vehicle="589" alpha="255" interior="0" posX="3760.3" posY="-1729.9" posZ="2.8" rotX="0" rotY="0" rotZ="134.78"></spawnpoint>
+    <spawnpoint id="spawnpoint (BF Injection) (2)" vehicle="424" alpha="255" interior="0" posX="3733.2" posY="-1682.2" posZ="2.4" rotX="0" rotY="0" rotZ="224.286"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotknife) (2)" vehicle="434" alpha="255" interior="0" posX="3799.8" posY="-1621.9" posZ="2.8" rotX="0" rotY="0" rotZ="194.65"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer) (1)" vehicle="494" alpha="255" interior="0" posX="3977.5" posY="-1672.6" posZ="2.7" rotX="0" rotY="0" rotZ="136.127"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer 3) (1)" vehicle="502" alpha="255" interior="0" posX="3933" posY="-1715.8" posZ="2.7" rotX="0" rotY="0" rotZ="136.126"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bloodring Banger) (1)" vehicle="504" alpha="255" interior="0" posX="3892.4" posY="-1789.4" posZ="2.7" rotX="0" rotY="0" rotZ="103.147"></spawnpoint>
+    <spawnpoint id="spawnpoint (Hotring Racer 2) (2)" vehicle="503" alpha="255" interior="0" posX="3891.8" posY="-1755.5" posZ="2.7" rotX="0" rotY="0" rotZ="135.055"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bandito) (1)" vehicle="568" alpha="255" interior="0" posX="4001.2" posY="-1761.2" posZ="2.6" rotX="0" rotY="0" rotZ="103.145"></spawnpoint>
+    <spawnpoint id="spawnpoint (Boxville Mission) (1)" vehicle="609" alpha="255" interior="0" posX="3956.4" posY="-1915.5" posZ="2.8" rotX="0" rotY="0" rotZ="44.666"></spawnpoint>
+    <spawnpoint id="spawnpoint (Mule) (2)" vehicle="414" alpha="255" interior="0" posX="3942.3" posY="-1776" posZ="2.8" rotX="0" rotY="0" rotZ="103.145"></spawnpoint>
+    <spawnpoint id="spawnpoint (Yankee) (2)" vehicle="456" alpha="255" interior="0" posX="3907.5" posY="-1818.3" posZ="2.8" rotX="0" rotY="0" rotZ="73.51"></spawnpoint>
+    <spawnpoint id="spawnpoint (Boxville) (2)" vehicle="498" alpha="255" interior="0" posX="3952.7" posY="-1830.9" posZ="3.1" rotX="0" rotY="0" rotZ="73.51"></spawnpoint>
+    <spawnpoint id="spawnpoint (Benson) (2)" vehicle="499" alpha="255" interior="0" posX="4021" posY="-1851.2" posZ="2.9" rotX="0" rotY="0" rotZ="73.51"></spawnpoint>
+    <spawnpoint id="spawnpoint (Towtruck) (1)" vehicle="525" alpha="255" interior="0" posX="3914.6" posY="-1871.7" posZ="2.9" rotX="0" rotY="0" rotZ="44.665"></spawnpoint>
+    <spawnpoint id="spawnpoint (Infernus) (1)" vehicle="411" alpha="255" interior="0" posX="3872.1" posY="-1910.2" posZ="3" rotX="0" rotY="0" rotZ="14.566"></spawnpoint>
+    <spawnpoint id="spawnpoint (Ambulance) (3)" vehicle="416" alpha="255" interior="0" posX="3890.101" posY="-1978.4" posZ="3" rotX="0" rotY="0" rotZ="14.562"></spawnpoint>
+</map>

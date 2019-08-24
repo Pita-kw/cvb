@@ -1,0 +1,14 @@
+<meta>
+	<file src="i/window.png" />
+	<file src="i/button_blue.png" />
+	<file src="i/button_green.png" />
+	<file src="i/button_red.png" />
+	<script src="c.luac" type="client" />
+	<script src="s.lua" type="server" />
+	<export function="getPlayerFriends" type="server" />
+	<export function="getPlayerInvites" type="server" />
+	<export function="invitePlayerToFriends" type="server" />
+	<export function="removePlayerInvite" type="server" />
+	<export function="addPlayerToFriends" type="server" />
+	<export function="removePlayerFromFriends" type="server" />
+</meta>

@@ -1,0 +1,7 @@
+<map>
+    <object id="editor-object" model="2991" posX="65.216843" posY="2565.3604" posZ="213.68594" rotX="0" rotY="0" rotZ="0" interior="1" dimension="999" collisions="true" frozen="true"></object>
+    <object id="editor-object" model="2991" posX="69.274796" posY="2565.3782" posZ="213.65271" rotX="0" rotY="0" rotZ="0" interior="1" dimension="999" collisions="true" frozen="true"></object>
+    <object id="editor-object" model="2991" posX="83.636902" posY="2561.958" posZ="212.09488" rotX="48" rotY="0" rotZ="0" interior="1" dimension="999" collisions="true" frozen="true"></object>
+    <object id="editor-object" model="2991" posX="87.702545" posY="2560.5032" posZ="211.54208" rotX="0" rotY="0" rotZ="0" interior="1" dimension="999" collisions="true" frozen="true"></object>
+    <object id="editor-object" model="2991" posX="91.016518" posY="2560.2563" posZ="211.66284" rotX="0" rotY="0" rotZ="345" interior="1" dimension="999" collisions="true" frozen="true"></object>
+</map>

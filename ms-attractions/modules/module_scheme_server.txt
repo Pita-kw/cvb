@@ -1,0 +1,60 @@
+Module = {}  
+
+-- load()
+-- wykonuje sie w onResourceStart
+function Module.load()
+	Module.name = "Modu³"
+	Module.team = createTeam(Module.name, 255, 255, 255)
+	Module.cmd = "wh"
+	Module.entriesTime = 10000 -- czas zapisów w milisekundach
+	
+	Module.minPlayers = 1
+	Module.maxPlayers = 10
+	Module.time = 60000*5 -- czas maks
+	
+	addCommandHandler(Module.cmd, Module.entry)
+end
+
+-- stop()
+-- wykonuje sie w onResourceStop
+function Module.stop()
+	
+end
+
+-- start()
+-- zaczecie zabawy po zapisach 
+function Module.start()
+
+	setTimer(Module.finish, Module.time, 1)
+end 
+
+-- stop()
+-- zakonczenie zabawy (czas uplynal / inny warunek)
+function Module.finish()
+	setTimer(Core.startEntries, Core.entriesStartDelay, 1)
+end
+
+-- entry()
+-- zapis na zabawê
+function Module.entry(player)
+	if not getElementData(player, "player:spawned") then return end 
+	
+	local onAttraction = getPlayerTeam(player)
+	if onAttraction then
+		triggerClientEvent(player, "onClientAddNotification", player, "Ju¿ jesteœ zapisany/a na atrakcjê "..tostring(getTeamName(onAttraction))..". By siê wypisaæ, wpisz /wypisz.", "warning", 10000)
+		return 
+	end
+	
+	if countPlayersInTeam(Module.team) >= Module.maxPlayers then 
+		triggerClientEvent(player, "onClientAddNotification", player, "Niestety atrakcja "..Module.name.." nie ma ju¿ wolnych miejsc.", "error", 10000)
+		return
+	end 
+	
+	if not Core.isAttractionCurrentAttraction(Module) then 
+		triggerClientEvent(player, "onClientAddNotification", player, "Zapisy na t¹ atrakcjê s¹ ju¿ zamkniête.", "error", 5000)
+		return
+	end 
+	
+	setPlayerTeam(player, Module.team)
+	triggerClientEvent(player, "onClientAddNotification", player, "Zapisa³eœ/aœ siê na atrakcjê "..Module.name.." pomyœlnie. Czekaj na rozpoczêcie.", "success", 10000)
+end 

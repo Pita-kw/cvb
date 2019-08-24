@@ -1,0 +1,8 @@
+<meta>
+	<file src="BebasNeue.otf" type="client" />
+	<file src="tone_icon.png" type="client" />
+	<file src="k.mp3" type="client" />
+	<script src="radio_c.luac" cache="false" type="client" />
+	<script src="c.lua" cache="false" type="client" />
+	<script src="s.lua" type="server" />
+</meta>

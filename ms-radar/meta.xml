@@ -1,0 +1,45 @@
+<meta>
+	<info name="Rectangle minimap" author="Jayceon" version="1.0.61" type="script" />
+	
+	<script src="sourceG.lua" cache="false" type="client" />
+	<script src="sourceC.lua" cache="false" type="client" />
+	
+	<file src="files/images/map.png" />
+	<file src="files/images/arrow.png" />
+	
+	<file src="files/images/blips/truck.png" />
+	<file src="files/images/blips/spray.png" />
+	<file src="files/images/blips/north.png" />
+	<file src="files/images/blips/player.png" />
+	<file src="files/images/blips/tuning.png" />
+	<file src="files/images/blips/target.png" />
+	<file src="files/images/blips/airport.png" />
+	<file src="files/images/blips/flag.png" />
+	<file src="files/images/blips/job.png" />
+	<file src="files/images/blips/tune.png" />
+	<file src="files/images/blips/time.png" />
+	<file src="files/images/blips/repair.png" />
+	<file src="files/images/blips/unknown.png" />
+	<file src="files/images/blips/weapon.png" />
+	<file src="files/images/blips/vehicle_shop.png" />
+	<file src="files/images/blips/mission_target.png" />
+	<file src="files/images/blips/house.png" />
+	<file src="files/images/blips/police.png" />
+	<file src="files/images/blips/skull.png" />
+	<file src="files/images/blips/music.png" />
+	<file src="files/images/blips/shop.png" />
+	<file src="files/images/blips/state.png" />
+	<file src="files/images/blips/screap.png" />
+	<file src="files/images/blips/ball.png" />
+	<file src="files/images/blips/slender.png" />
+	<file src="files/fonts/roboto.ttf" />
+	<file src="files/fonts/icons.ttf" />
+	
+	<export function="showRadar" type="client" />
+	<export function="getRadarPosition" type="client" />
+	<export function="getMinimapState" type="client" />
+	<export function="getBigmapState" type="client" />
+	<export function="getInterfaceZoom" type="client" /> 
+	
+	<min_mta_version client="1.3.5" server="1.3.0-9.04134" />
+</meta>

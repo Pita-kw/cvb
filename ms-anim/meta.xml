@@ -1,0 +1,5 @@
+<meta>
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" />
+	<file src="pee.mp3"/>
+</meta>

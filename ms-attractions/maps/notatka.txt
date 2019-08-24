@@ -1,0 +1,2 @@
+Dla map z dodatkowymi skryptami:
+	w ka¿dym musi byæ funkcja unloadResources() oraz funkcja loadResources() wykonywana na koñcu.

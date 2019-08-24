@@ -1,0 +1,4 @@
+<meta>
+<script src="pol_c.lua" type="client"/>
+<script src="pol_s.lua" type="server" />
+</meta>

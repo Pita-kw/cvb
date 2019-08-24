@@ -1,0 +1,8 @@
+<meta>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+
+	<script src="remove_shadows.luac" cache="false" type="client" />
+
+	<file src="i/shad_ped.png" />
+	<file src="fx/swap.fx" />
+</meta>

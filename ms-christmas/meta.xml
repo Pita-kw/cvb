@@ -1,0 +1,17 @@
+<meta>
+	<file src="dodo.dff" type="client" />
+	<file src="dodo.txd" type="client" />
+	<file src="santa.dff" type="client" />
+	<file src="santa.txd" type="client" />
+	<file src="gift.png" type="client"/>
+	<file src="merry_christmas.mp3" type="client"/>
+	<file src="countdown.mp3" type="client"/>
+	
+	<script src="intro.lua" type="server" />
+	<script src="cameras.lua" type="client" cache="false" />
+	<script src="santa.lua" type="client" cache="fase" /> 
+	<script src="sanie.lua" type="client" cache="fase" /> 
+	<script src="map.lua" type="server" />
+	<script src="music_s.lua" type="server" />
+	<script src="music_c.lua" type="client" cache="fase" />
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+	<script src="col_c.lua" type="client"/>
+	<script src="col_s.lua" type="server"/>
+	<export function="createAntyDMZone" type="server" />
+</meta>

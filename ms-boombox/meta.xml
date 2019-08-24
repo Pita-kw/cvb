@@ -1,0 +1,5 @@
+<meta>
+	<script src="c.luac" cache="false" type="client" />
+	<script src="s.lua"  type="server" /> 
+	<export function="createBoombox" type="server" />
+</meta>

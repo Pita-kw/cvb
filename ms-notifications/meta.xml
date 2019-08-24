@@ -1,0 +1,11 @@
+<meta>
+	<file src="archivo_narrow.ttf" type="client" />
+	<file src="s/error.mp3" type="client" />
+	<file src="s/message.mp3" type="client" />
+	<file src="s/success.mp3" type="client" />
+	<file src="s/info.mp3" type="client" />
+	<file src="s/warning.mp3" type="client" />
+	<script src="utils_c.luac" cache="false" type="client" />
+	<script src="c.luac" cache="false" type="client" />
+	<script src="s.lua" type="server" />
+</meta>

@@ -1,0 +1,24 @@
+<meta>
+	<file src="bag.png" type="client" />
+	<file src="penalty.png" type="client" />
+	
+	<script src="fly_c.luac" cache="false" type="client" />
+	<script src="fly_s.lua" type="server" />
+	
+	<script src="c.lua" cache="false" type="client" />
+	<script src="s.lua" type="server" />
+	<script src="check_data.lua" type="server" />
+	
+	<script src="gameView.lua" type="server" />
+	<script src="logging.lua" type="server" />
+	
+	<script src="report_c.luac" cache="false" type="client" />
+	<script src="report_s.lua" type="server" />
+
+	<script src="ann_c.luac" cache="false" type="client" />
+	<script src="ann_s.lua" type="server" />
+	
+	<export function="banMSPlayer" type="server" />
+	<export function="gameView_add" type="server" />
+	<export function="logAdd" type="server" />
+</meta>

@@ -1,0 +1,19 @@
+<meta>
+    <info author="Pere corporation" description="re piola facu re piola" version="2.0" type="map" />
+  <map src="AKINA.map" dimension="0"></map>
+<script src="replace.lua" type="client" />
+    <file src="akina.txd" />
+    <file src="akina1.col" />
+    <file src="akina1.dff" />
+    <file src="akina2.col" />
+    <file src="akina2.dff" />
+    <file src="akina3.col" />
+    <file src="akina3.dff" />
+    <file src="akina4.col" />
+    <file src="akina4.dff" />
+    <file src="akina5.col" />
+    <file src="akina5.dff" />
+    <info author="ScorT" version="1.0" type="misc" name="Teletransportar"/>
+<script src="Teleport.lua" type="server" />
+    
+</meta>

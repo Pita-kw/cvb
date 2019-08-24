@@ -1,0 +1,4 @@
+<meta>
+	<script src="music_c.luac" cache="false" type="client"/>
+	<script src="music_s.lua" type="server"/>
+</meta>

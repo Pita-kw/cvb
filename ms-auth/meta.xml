@@ -1,0 +1,5 @@
+<meta>
+	<script src="premium_s.lua" type="server" />
+	<script src="s.lua" type="server" />
+	<export function="restorePlayerNametagColor" type="server" />
+</meta>

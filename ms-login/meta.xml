@@ -1,0 +1,13 @@
+<meta>
+	<info author="Brzysiek" version="1.0" name="MultiServer - Panel logowania" />
+	<file src="img/bg.jpg" type="client" />
+	<file src="img/logo.png" type="client" />
+	<file src="img/archivo_narrow.ttf" type="client" />
+	<file src="img/enter.png" type="client" />
+	<file src="img/keys.png" type="client" />
+	<file src="img/keys2.png" type="client" />
+	<file src="music.mp3" type="client" />
+	<script src="gui_c.luac" cache="false" type="client" />
+	<script src="skinselector_c.luac" cache="false" type="client" />
+	<script src="utils_c.luac" cache="false" type="client" />
+</meta>

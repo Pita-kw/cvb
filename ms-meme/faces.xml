@@ -1,0 +1,29 @@
+<root>
+		<face file="angry.png" name="Angry" />
+		<face file="awesome.png" name="Awesome"/>
+		<face file="challenge.png" name="Challenge"/>
+		<face file="derpina.png" name="Derpina"/>
+		<face file="derrp.png" name="Derrp"/>
+		<face file="determined.png" name="Determined"/>
+		<face file="disappoint.png" name="Disappoint"/>
+		<face file="fair_enough.png" name="Fair Enough"/>
+		<face file="forever_alone.png" name="Forever Alone"/>
+		<face file="f_yeah.png" name="F$%@ yeah"/>
+		<face file="horror.png" name="Horror"/>
+		<face file="laughing.png" name="Laughing"/>
+		<face file="lol_guy.png" name="LOL Guy"/>
+		<face file="me_gusta.png" name="Me gusta"/>
+		<face file="okay.png" name="Okay"/>
+		<face file="pffft.png" name="Pffft"/>
+		<face file="poker_face.png" name="Poker Face"/>
+		<face file="rage.png" name="Rage"/>
+		<face file="sad_troll.png" name="Sad Troll"/>
+		<face file="smile.png" name="Smile"/>
+		<face file="sweaty.png" name="Sweaty"/>
+		<face file="troll_dad.png" name="Troll Dad"/>
+		<face file="troll_face.png" name="Troll Face"/>
+		<face file="wat.png" name="WAT"/>
+		<face file="well.png" name="Well"/>
+		<face file="we_have_a_badass.png" name="We have a .."/>
+		<face file="y_u_no.png" name="YU No?"/>
+</root>

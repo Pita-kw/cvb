@@ -1,0 +1,20 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (BailBonds1_LAn) (1)" breakable="true" interior="0" collisions="true" alpha="255" model="4001" doublesided="false" scale="1" dimension="0" name="ancient" posX="3191.1689" posY="-1782.751" posZ="100.30801" rotX="0" rotY="0" rotZ="0"></object>
+    <racepickup id="racepickup (NRG-500) (3)" type="repair" vehicle="522" respawn="0" posX="3167.624" posY="-1811.4375" posZ="56.94019" rotX="0" rotY="0" rotZ="223.56"></racepickup>
+    <spawnpoint id="spawnpoint (Bullet) (1)" vehicle="541" posX="3224.8999" posY="-1866.8" posZ="59.3" rotX="342" rotY="0" rotZ="46"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (2)" vehicle="541" posX="3111.3999" posY="-1756.2" posZ="59.2" rotX="0" rotY="0" rotZ="226"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (3)" vehicle="541" alpha="255" interior="0" posX="3211.1001" posY="-1769.1" posZ="39.2" rotX="14" rotY="0" rotZ="134"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (4)" vehicle="541" alpha="255" interior="0" posX="3125.3999" posY="-1853.8" posZ="39.2" rotX="17.999" rotY="0" rotZ="314"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (5)" vehicle="541" alpha="255" interior="0" posX="3168.2" posY="-1754.5" posZ="46.3" rotX="352.308" rotY="343.851" rotZ="177.775"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (6)" vehicle="541" alpha="255" interior="0" posX="3167.7" posY="-1868" posZ="46.1" rotX="359.992" rotY="343.999" rotZ="1.988"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (7)" vehicle="541" alpha="255" interior="0" posX="3111.8" posY="-1811.5" posZ="46.3" rotX="1.93" rotY="14.007" rotZ="269.505"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (8)" vehicle="541" alpha="255" interior="0" posX="3225.3999" posY="-1811.7" posZ="46.3" rotX="1.928" rotY="14.002" rotZ="87.5"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (9)" vehicle="541" alpha="255" interior="0" posX="3126.8999" posY="-1793.9" posZ="49.1" rotX="1.968" rotY="351.989" rotZ="156.253"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (10)" vehicle="541" alpha="255" interior="0" posX="3209.2" posY="-1830.5" posZ="49.3" rotX="354.078" rotY="349.936" rotZ="332.922"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (11)" vehicle="541" alpha="255" interior="0" posX="3150.5" posY="-1853" posZ="43.5" rotX="7.903" rotY="8.063" rotZ="246.853"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (12)" vehicle="541" alpha="255" interior="0" posX="3209.3" posY="-1792.5" posZ="43.2" rotX="0" rotY="0" rotZ="24"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (13)" vehicle="541" alpha="255" interior="0" posX="3216.3" posY="-1868.6" posZ="56.8" rotX="352.094" rotY="10.078" rotZ="91.361"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (14)" vehicle="541" alpha="255" interior="0" posX="3118.8" posY="-1754.6" posZ="57.2" rotX="352.09" rotY="10.074" rotZ="267.357"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (15)" vehicle="541" alpha="255" interior="0" posX="3226" posY="-1859.6" posZ="57" rotX="348.23" rotY="347.715" rotZ="357.407"></spawnpoint>
+    <spawnpoint id="spawnpoint (Bullet) (16)" vehicle="541" alpha="255" interior="0" posX="3110" posY="-1762.6" posZ="57.6" rotX="0" rotY="0" rotZ="174"></spawnpoint>
+</map>

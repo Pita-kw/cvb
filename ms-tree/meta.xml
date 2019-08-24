@@ -1,0 +1,15 @@
+<meta>
+	<script src="tree_c.lua" cache="false" type="client" />
+	<script src="tree_s.lua" type="server" />
+	<script src="gui_c.luac" cache="false" type="client" />
+
+	<file src="f/archivo_narrow.ttf" />
+	<file src="i/bg.png" />
+	<file src="i/btn_b.png" />
+	<file src="i/btn_bh.png" />
+	<file src="i/btn_r.png" />
+	<file src="i/btn_rh.png" />
+
+  	<file src="t/kmb_cratex.txd" />
+  	<file src="t/temp_crate1.dff" />
+</meta>

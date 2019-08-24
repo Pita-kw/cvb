@@ -1,0 +1,25 @@
+<meta>
+	<file src="i/diamonds_icon.png" />
+	<file src="i/house_icon.png" />
+	<file src="i/money_icon.png" />
+	<file src="archivo_narrow.ttf" />
+	<file src="knock.wav" />
+	<script src="slither.luac" cache="false" type="client" />
+	<script src="slither.lua" type="server" />
+	
+	<script src="furniture_c.luac" cache="false" type="client" />
+	<script src="furniture_s.lua" type="server" />
+	<export function="loadFurnitureForPlayer" type="server" />
+	<export function="deleteFurnitureForPlayer" type="server" />
+	<export function="takeFurniture" type="server" />
+	
+	<script src="furnitureshop_c.luac" cache="false" type="client" />
+	<script src="furnitureshop_s.lua" type="server" />
+	
+	<script src="ints_c.luac" cache="false" type="client" />
+	<script src="ints_s.lua" type="server" />
+	
+	<script src="dxEdit.luac" cache="false" type="client" />
+	<script src="house_c.luac" cache="false" type="client" />
+	<script src="house_s.lua" type="server" />
+</meta>

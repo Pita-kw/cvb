@@ -1,0 +1,6 @@
+<meta>
+	<script src="arens_s.lua" type="server"/>
+	<script src="arens_c.luac" cache="false" type="client"/>
+	<file src="f/archivo_narrow.ttf"/>
+	<export function="joinArena" type="server" />
+</meta>

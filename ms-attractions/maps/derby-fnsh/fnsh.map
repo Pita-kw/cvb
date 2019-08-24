@@ -1,0 +1,166 @@
+<map edf:definitions="race,editor_main">
+    <object id="object (vgncarshade1) (1)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.8237304688" posY="-1589.6431884766" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (2)" doublesided="false" model="3458" interior="0" dimension="0" posX="4001.15625" posY="-1571.8692626953" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (3)" doublesided="false" model="3458" interior="0" dimension="0" posX="3966.009765625" posY="-1571.9056396484" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (4)" doublesided="false" model="3458" interior="0" dimension="0" posX="3984.5866699219" posY="-1571.9381103516" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (5)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.6635742188" posY="-1553.7214355469" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (6)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.5922851562" posY="-1571.7806396484" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (7)" doublesided="false" model="3458" interior="0" dimension="0" posX="4022.4521484375" posY="-1571.8280029297" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (8)" doublesided="false" model="3458" interior="0" dimension="0" posX="4023.6809082031" posY="-1553.7885742188" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (9)" doublesided="false" model="3458" interior="0" dimension="0" posX="4023.3132324219" posY="-1589.6701660156" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (10)" doublesided="false" model="3458" interior="0" dimension="0" posX="4041.3325195312" posY="-1571.3649902344" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (11)" doublesided="false" model="3458" interior="0" dimension="0" posX="4019.0510253906" posY="-1571.5816650391" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (12)" doublesided="false" model="3458" interior="0" dimension="0" posX="4019.294921875" posY="-1531.5889892578" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (13)" doublesided="false" model="3458" interior="0" dimension="0" posX="4041.2958984375" posY="-1531.7009277344" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (14)" doublesided="false" model="3458" interior="0" dimension="0" posX="4001.1567382812" posY="-1531.4680175781" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (15)" doublesided="false" model="3458" interior="0" dimension="0" posX="3984.7309570312" posY="-1531.2138671875" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (16)" doublesided="false" model="3458" interior="0" dimension="0" posX="3966.0280761719" posY="-1531.4630126953" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (17)" doublesided="false" model="3458" interior="0" dimension="0" posX="4023.4692382812" posY="-1532.3585205078" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (18)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.6606445312" posY="-1532.3969726562" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (19)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.7958984375" posY="-1513.3387451172" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (20)" doublesided="false" model="3458" interior="0" dimension="0" posX="4023.6179199219" posY="-1513.326171875" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (21)" doublesided="false" model="3458" interior="0" dimension="0" posX="4030.5185546875" posY="-1597.5886230469" posZ="4.4499979019165" rotX="0" rotY="330" rotZ="90" />
+    <object id="object (vgncarshade1) (22)" doublesided="false" model="3458" interior="0" dimension="0" posX="4030.5688476562" posY="-1523.4737548828" posZ="4.4249973297119" rotX="0" rotY="30" rotZ="90" />
+    <object id="object (vgncarshade1) (23)" doublesided="false" model="3458" interior="0" dimension="0" posX="4012.921875" posY="-1542.7542724609" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (24)" doublesided="false" model="3458" interior="0" dimension="0" posX="3990.3393554688" posY="-1560.6036376953" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (25)" doublesided="false" model="3458" interior="0" dimension="0" posX="3990.3225097656" posY="-1525.3327636719" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (26)" doublesided="false" model="3458" interior="0" dimension="0" posX="4030.5180664062" posY="-1560.6466064453" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (27)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.8293457031" posY="-1503.1252441406" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (28)" doublesided="false" model="3458" interior="0" dimension="0" posX="4023.2622070312" posY="-1503.1441650391" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (29)" doublesided="false" model="3458" interior="0" dimension="0" posX="4041.3505859375" posY="-1607.0825195312" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (30)" doublesided="false" model="3458" interior="0" dimension="0" posX="4040.9086914062" posY="-1525.6837158203" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (31)" doublesided="false" model="3458" interior="0" dimension="0" posX="4040.9125976562" posY="-1565.7067871094" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (32)" doublesided="false" model="3458" interior="0" dimension="0" posX="4008.00390625" posY="-1578.2926025391" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (33)" doublesided="false" model="3458" interior="0" dimension="0" posX="4040.8630371094" posY="-1605.4224853516" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (34)" doublesided="false" model="3458" interior="0" dimension="0" posX="3961.4467773438" posY="-1522.7265625" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (35)" doublesided="false" model="3458" interior="0" dimension="0" posX="3961.4323730469" posY="-1562.994140625" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (36)" doublesided="false" model="3458" interior="0" dimension="0" posX="3961.5595703125" posY="-1603.1702880859" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (37)" doublesided="false" model="3458" interior="0" dimension="0" posX="3979.1369628906" posY="-1623.0202636719" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (38)" doublesided="false" model="3458" interior="0" dimension="0" posX="4018.3530273438" posY="-1622.9808349609" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (39)" doublesided="false" model="3458" interior="0" dimension="0" posX="4023.4423828125" posY="-1624.7019042969" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (40)" doublesided="false" model="3458" interior="0" dimension="0" posX="4001.1032714844" posY="-1607.1158447266" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (41)" doublesided="false" model="3458" interior="0" dimension="0" posX="4021.4880371094" posY="-1607.9887695312" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (42)" doublesided="false" model="3458" interior="0" dimension="0" posX="3979.2272949219" posY="-1578.1989746094" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (43)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.9230957031" posY="-1607.9755859375" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (44)" doublesided="false" model="3458" interior="0" dimension="0" posX="3961.4372558594" posY="-1520.7436523438" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (45)" doublesided="false" model="3458" interior="0" dimension="0" posX="3966.0280761719" posY="-1607.0855712891" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (46)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.7875976562" posY="-1624.787109375" posZ="0" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (47)" doublesided="false" model="3458" interior="0" dimension="0" posX="3990.0793457031" posY="-1600.9841308594" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (48)" doublesided="false" model="3458" interior="0" dimension="0" posX="3977.44921875" posY="-1597.5017089844" posZ="4.4250011444092" rotX="0" rotY="330" rotZ="90" />
+    <object id="object (vgncarshade1) (50)" doublesided="false" model="3458" interior="0" dimension="0" posX="4015.0512695312" posY="-1601.6926269531" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (49)" doublesided="false" model="3458" interior="0" dimension="0" posX="4015.0822753906" posY="-1561.4908447266" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (51)" doublesided="false" model="3458" interior="0" dimension="0" posX="4015.0869140625" posY="-1520.8955078125" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (52)" doublesided="false" model="3458" interior="0" dimension="0" posX="3979.19921875" posY="-1542.6844482422" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (54)" doublesided="false" model="3458" interior="0" dimension="0" posX="3974.3271484375" posY="-1523.4053955078" posZ="4.449996471405" rotX="0" rotY="29.998168945312" rotZ="90" />
+    <object id="object (vgncarshade1) (55)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.6145019531" posY="-1601.0352783203" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (56)" doublesided="false" model="3458" interior="0" dimension="0" posX="4023.3359375" posY="-1601.0886230469" posZ="14.319428443909" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (57)" doublesided="false" model="3458" interior="0" dimension="0" posX="4004.1391601562" posY="-1562.4763183594" posZ="14.319428443909" rotX="0" rotY="0" rotZ="305" />
+    <object id="object (vgncarshade1) (58)" doublesided="false" model="3458" interior="0" dimension="0" posX="4061.9548339844" posY="-1623.0625" posZ="23.285314559937" rotX="0" rotY="334" rotZ="0" />
+    <object id="object (vgncarshade1) (59)" doublesided="false" model="3458" interior="0" dimension="0" posX="4002.1442871094" posY="-1560.8016357422" posZ="14.319428443909" rotX="0" rotY="0" rotZ="55" />
+    <object id="object (vgncarshade1) (60)" doublesided="false" model="3458" interior="0" dimension="0" posX="4082.0070800781" posY="-1605.4351806641" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (61)" doublesided="false" model="3458" interior="0" dimension="0" posX="4082.0036621094" posY="-1565.5765380859" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (62)" doublesided="false" model="3458" interior="0" dimension="0" posX="4081.9694824219" posY="-1526.0050048828" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (63)" doublesided="false" model="3458" interior="0" dimension="0" posX="4064.2458496094" posY="-1584.3540039062" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (64)" doublesided="false" model="3458" interior="0" dimension="0" posX="4064.205078125" posY="-1503.3665771484" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (65)" doublesided="false" model="3458" interior="0" dimension="0" posX="4064.2504882812" posY="-1545.2683105469" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (66)" doublesided="false" model="3458" interior="0" dimension="0" posX="4023.8103027344" posY="-1503.4108886719" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (67)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.5280761719" posY="-1503.4233398438" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (68)" doublesided="false" model="3458" interior="0" dimension="0" posX="3965.8696289062" posY="-1525.8055419922" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (69)" doublesided="false" model="3458" interior="0" dimension="0" posX="4041.9289550781" posY="-1523.8155517578" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (70)" doublesided="false" model="3458" interior="0" dimension="0" posX="3965.8674316406" posY="-1565.0572509766" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (71)" doublesided="false" model="3458" interior="0" dimension="0" posX="3965.8757324219" posY="-1605.1533203125" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (72)" doublesided="false" model="3458" interior="0" dimension="0" posX="4041.9455566406" posY="-1563.7761230469" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (73)" doublesided="false" model="3458" interior="0" dimension="0" posX="3965.9819335938" posY="-1645.3759765625" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (74)" doublesided="false" model="3458" interior="0" dimension="0" posX="4061.9184570312" posY="-1508.5465087891" posZ="23.294437408447" rotX="0" rotY="333.99536132812" rotZ="0" />
+    <object id="object (vgncarshade1) (75)" doublesided="false" model="3458" interior="0" dimension="0" posX="4041.78125" posY="-1595.3063964844" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (76)" doublesided="false" model="3458" interior="0" dimension="0" posX="3987.826171875" posY="-1663.0074462891" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (77)" doublesided="false" model="3458" interior="0" dimension="0" posX="4019.3911132812" posY="-1663.1409912109" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (78)" doublesided="false" model="3458" interior="0" dimension="0" posX="4059.4282226562" posY="-1663.1280517578" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (79)" doublesided="false" model="3458" interior="0" dimension="0" posX="4059.8896484375" posY="-1612.9260253906" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (80)" doublesided="false" model="3458" interior="0" dimension="0" posX="4082.1743164062" posY="-1645.4924316406" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (81)" doublesided="false" model="3458" interior="0" dimension="0" posX="4041.7893066406" posY="-1635.4342041016" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (82)" doublesided="false" model="3458" interior="0" dimension="0" posX="4041.8095703125" posY="-1642.7132568359" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (83)" doublesided="false" model="3458" interior="0" dimension="0" posX="4020.1892089844" posY="-1612.8778076172" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (84)" doublesided="false" model="3458" interior="0" dimension="0" posX="3983.1442871094" posY="-1612.9125976562" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (85)" doublesided="false" model="3458" interior="0" dimension="0" posX="4019.5791015625" posY="-1545.2764892578" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (86)" doublesided="false" model="3458" interior="0" dimension="0" posX="4021.4685058594" posY="-1575.5203857422" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (87)" doublesided="false" model="3458" interior="0" dimension="0" posX="3987.5861816406" posY="-1545.18359375" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (88)" doublesided="false" model="3458" interior="0" dimension="0" posX="3985.779296875" posY="-1575.4788818359" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (89)" doublesided="false" model="3458" interior="0" dimension="0" posX="3988.5163574219" posY="-1524.5987548828" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (90)" doublesided="false" model="3458" interior="0" dimension="0" posX="4028.4738769531" posY="-1524.4970703125" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (91)" doublesided="false" model="3458" interior="0" dimension="0" posX="4059.30859375" posY="-1524.6701660156" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (92)" doublesided="false" model="3458" interior="0" dimension="0" posX="4060.845703125" posY="-1524.5303955078" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (93)" doublesided="false" model="3458" interior="0" dimension="0" posX="4060.7170410156" posY="-1567.6989746094" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (94)" doublesided="false" model="3458" interior="0" dimension="0" posX="4060.6560058594" posY="-1607.8688964844" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (95)" doublesided="false" model="3458" interior="0" dimension="0" posX="4060.6391601562" posY="-1627.0510253906" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (96)" doublesided="false" model="3458" interior="0" dimension="0" posX="4060.7092285156" posY="-1640.6053466797" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (97)" doublesided="false" model="3458" interior="0" dimension="0" posX="4059.6059570312" posY="-1638.5708007812" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (98)" doublesided="false" model="3458" interior="0" dimension="0" posX="4019.5444335938" posY="-1638.6370849609" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (99)" doublesided="false" model="3458" interior="0" dimension="0" posX="3988.4411621094" posY="-1638.7674560547" posZ="31.979482650757" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (100)" doublesided="false" model="3458" interior="0" dimension="0" posX="4000.5241699219" posY="-1640.3820800781" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (101)" doublesided="false" model="3458" interior="0" dimension="0" posX="4025.6242675781" posY="-1598.8930664062" posZ="31.979482650757" rotX="0" rotY="0" rotZ="317" />
+    <object id="object (vgncarshade1) (103)" doublesided="false" model="3458" interior="0" dimension="0" posX="4000.5412597656" posY="-1560.0333251953" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (104)" doublesided="false" model="3458" interior="0" dimension="0" posX="4000.44921875" posY="-1525.8428955078" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (105)" doublesided="false" model="3458" interior="0" dimension="0" posX="3981.9123535156" posY="-1558.4888916016" posZ="31.979482650757" rotX="0" rotY="0" rotZ="318" />
+    <object id="object (landjump2) (1)" doublesided="false" model="1634" interior="0" dimension="0" posX="3989.3461914062" posY="-1565.2077636719" posZ="34.580257415771" rotX="0" rotY="0" rotZ="228" />
+    <object id="object (landjump2) (2)" doublesided="false" model="1634" interior="0" dimension="0" posX="4013.4951171875" posY="-1587.419921875" posZ="34.580257415771" rotX="0" rotY="0" rotZ="47" />
+    <object id="object (vgncarshade1) (106)" doublesided="false" model="3458" interior="0" dimension="0" posX="4000.4301757812" posY="-1600.3149414062" posZ="31.979482650757" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (107)" doublesided="false" model="3458" interior="0" dimension="0" posX="4025.9406738281" posY="-1559.0588378906" posZ="31.979482650757" rotX="0" rotY="0" rotZ="40" />
+    <object id="object (vgncarshade1) (108)" doublesided="false" model="3458" interior="0" dimension="0" posX="3982.0285644531" posY="-1596.9847412109" posZ="31.979482650757" rotX="0" rotY="0" rotZ="42" />
+    <object id="object (landjump2) (3)" doublesided="false" model="1634" interior="0" dimension="0" posX="3993.0458984375" posY="-1587.0541992188" posZ="34.580257415771" rotX="0" rotY="0" rotZ="312" />
+    <object id="object (landjump2) (4)" doublesided="false" model="1634" interior="0" dimension="0" posX="4013.9995117188" posY="-1568.7805175781" posZ="34.580257415771" rotX="0" rotY="0" rotZ="130" />
+    <object id="object (vgncarshade1) (109)" doublesided="false" model="3458" interior="0" dimension="0" posX="3966.0231933594" posY="-1491.3386230469" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (vgncarshade1) (110)" doublesided="false" model="3458" interior="0" dimension="0" posX="3966.0656738281" posY="-1464.7237548828" posZ="0" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (a51_jetdoor) (1)" doublesided="false" model="3095" interior="0" dimension="0" posX="3973.05078125" posY="-1445.5655517578" posZ="0.97847008705139" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vgncarshade1) (111)" doublesided="false" model="3458" interior="0" dimension="0" posX="3972.513671875" posY="-1466.3427734375" posZ="13.305365562439" rotX="0" rotY="40" rotZ="90" />
+    <object id="object (vgncarshade1) (112)" doublesided="false" model="3458" interior="0" dimension="0" posX="3977.5278320312" posY="-1484.2596435547" posZ="14.319428443909" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (a51_jetdoor) (2)" doublesided="false" model="3095" interior="0" dimension="0" posX="3973.400390625" posY="-1485.3812255859" posZ="26.909387588501" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (a51_jetdoor) (3)" doublesided="false" model="3095" interior="0" dimension="0" posX="3973.3466796875" posY="-1493.0396728516" posZ="29.664726257324" rotX="320" rotY="0" rotZ="0" />
+    <object id="object (a51_jetdoor) (4)" doublesided="false" model="3095" interior="0" dimension="0" posX="3973.3500976562" posY="-1500.6285400391" posZ="32.432888031006" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (a51_jetdoor) (5)" doublesided="false" model="3095" interior="0" dimension="0" posX="3978.9523925781" posY="-1468.6889648438" posZ="16.547895431519" rotX="0" rotY="38" rotZ="90" />
+    <object id="object (a51_jetdoor) (6)" doublesided="false" model="3095" interior="0" dimension="0" posX="3973.18359375" posY="-1497.7331542969" posZ="30.213279724121" rotX="320" rotY="0" rotZ="0" />
+    <object id="object (a51_jetdoor) (7)" doublesided="false" model="3095" interior="0" dimension="0" posX="3978.9370117188" posY="-1474.9020996094" posZ="16.32292175293" rotX="0" rotY="317.99621582031" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (1)" vehicle="415" posX="3965.3698730469" posY="-1571.6837158203" posZ="2.6683311462402" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (2)" vehicle="415" interior="0" posX="3966.5610351562" posY="-1589.5126953125" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (3)" vehicle="415" interior="0" posX="3966.8303222656" posY="-1607.4029541016" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (4)" vehicle="415" interior="0" posX="3967.55859375" posY="-1624.9268798828" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (5)" vehicle="415" interior="0" posX="3966.9396972656" posY="-1554.1311035156" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (6)" vehicle="415" interior="0" posX="3967.3266601562" posY="-1532.314453125" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (7)" vehicle="415" interior="0" posX="3966.6550292969" posY="-1513.3079833984" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (8)" vehicle="415" interior="0" posX="4041.1220703125" posY="-1514.5506591797" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="180" />
+    <spawnpoint id="spawnpoint (Cheetah) (9)" vehicle="415" interior="0" posX="4041.1059570312" posY="-1532.3743896484" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (10)" vehicle="415" interior="0" posX="4040.0300292969" posY="-1553.9948730469" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (11)" vehicle="415" interior="0" posX="4039.7634277344" posY="-1571.5922851562" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (12)" vehicle="415" interior="0" posX="4039.9772949219" posY="-1588.7908935547" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (13)" vehicle="415" interior="0" posX="4040.2709960938" posY="-1607.5886230469" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (14)" vehicle="415" interior="0" posX="4040.8732910156" posY="-1624.1151123047" posZ="2.3779909610748" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Cheetah) (15)" vehicle="415" interior="0" posX="4041.1704101562" posY="-1598.3070068359" posZ="16.697420120239" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Cheetah) (16)" vehicle="415" interior="0" posX="4015.5571289062" posY="-1621.2689208984" posZ="16.697420120239" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Cheetah) (17)" vehicle="415" interior="0" posX="3990.2453613281" posY="-1622.318359375" posZ="16.697420120239" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Cheetah) (18)" vehicle="415" interior="0" posX="3961.5773925781" posY="-1622.1197509766" posZ="16.697420120239" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Cheetah) (19)" vehicle="415" interior="0" posX="3962.2058105469" posY="-1601.0144042969" posZ="16.697420120239" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (20)" vehicle="415" interior="0" posX="3962.6323242188" posY="-1577.8416748047" posZ="16.697420120239" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (21)" vehicle="415" interior="0" posX="3961.8181152344" posY="-1543.2513427734" posZ="16.697420120239" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (22)" vehicle="415" interior="0" posX="3962.0363769531" posY="-1503.3541259766" posZ="16.697420120239" rotX="0" rotY="0" rotZ="270" />
+    <spawnpoint id="spawnpoint (Cheetah) (23)" vehicle="415" interior="0" posX="3990.1127929688" posY="-1503.9180908203" posZ="16.697420120239" rotX="0" rotY="0" rotZ="180" />
+    <spawnpoint id="spawnpoint (Cheetah) (24)" vehicle="415" interior="0" posX="4015.041015625" posY="-1504.8393554688" posZ="16.697420120239" rotX="0" rotY="0" rotZ="180" />
+    <spawnpoint id="spawnpoint (Cheetah) (25)" vehicle="415" interior="0" posX="4040.658203125" posY="-1504.0799560547" posZ="16.697420120239" rotX="0" rotY="0" rotZ="180" />
+    <spawnpoint id="spawnpoint (Cheetah) (26)" vehicle="415" interior="0" posX="4081.646484375" posY="-1504.5631103516" posZ="34.357475280762" rotX="0" rotY="0" rotZ="180" />
+    <spawnpoint id="spawnpoint (Cheetah) (27)" vehicle="415" interior="0" posX="4080.5034179688" posY="-1524.8818359375" posZ="34.357475280762" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (28)" vehicle="415" interior="0" posX="4080.96484375" posY="-1545.2152099609" posZ="34.357475280762" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (29)" vehicle="415" interior="0" posX="4080.2590332031" posY="-1584.6345214844" posZ="34.357475280762" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (30)" vehicle="415" interior="0" posX="4079.8229980469" posY="-1613.5864257812" posZ="34.357475280762" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (31)" vehicle="415" interior="0" posX="4080.8542480469" posY="-1638.5611572266" posZ="34.357475280762" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (32)" vehicle="415" interior="0" posX="4081.4909667969" posY="-1662.8017578125" posZ="33.507953643799" rotX="0" rotY="0" rotZ="90" />
+    <spawnpoint id="spawnpoint (Cheetah) (33)" vehicle="415" interior="0" posX="4061.3039550781" posY="-1662.537109375" posZ="34.357475280762" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Cheetah) (34)" vehicle="415" interior="0" posX="4041.9965820312" posY="-1661.5938720703" posZ="34.357475280762" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Cheetah) (35)" vehicle="415" interior="0" posX="3999.9599609375" posY="-1660.4886474609" posZ="34.357475280762" rotX="0" rotY="0" rotZ="0" />
+    <spawnpoint id="spawnpoint (Cheetah) (36)" vehicle="415" interior="0" posX="3966.66015625" posY="-1661.4921875" posZ="34.357475280762" rotX="0" rotY="0" rotZ="0" />
+    <racepickup id="racepickup (NRG-500) (1)" type="nitro" vehicle="522" respawn="0" posX="4002.4504394531" posY="-1560.2525634766" posZ="17.198904037476" rotX="0" rotY="0" rotZ="196.921875" />
+    <racepickup id="racepickup (NRG-500) (2)" type="nitro" vehicle="522" respawn="0" posX="4001.4655761719" posY="-1531.9459228516" posZ="2.8794751167297" rotX="0" rotY="0" rotZ="177.125" />
+    <racepickup id="racepickup (NRG-500) (3)" type="nitro" vehicle="522" respawn="0" posX="4001.0107421875" posY="-1571.9599609375" posZ="2.8794751167297" rotX="0" rotY="0" rotZ="70.390625" />
+    <racepickup id="racepickup (NRG-500) (4)" type="nitro" vehicle="522" respawn="0" posX="4000.4633789062" posY="-1575.4555664062" posZ="34.858959197998" rotX="0" rotY="0" rotZ="154.625" />
+    <racepickup id="racepickup (NRG-500) (5)" type="repair" vehicle="522" respawn="0" posX="4003.0109863281" posY="-1578.2658691406" posZ="40.734317779541" rotX="0" rotY="0" rotZ="45" />
+    <racepickup id="racepickup (NRG-500) (6)" type="nitro" vehicle="522" respawn="0" interior="0" posX="4002.9514160156" posY="-1578.3458251953" posZ="40.768157958984" rotX="0" rotY="0" rotZ="95.59375" />
+    <racepickup id="racepickup (NRG-500) (7)" type="nitro" vehicle="522" respawn="0" posX="3973.3757324219" posY="-1445.748046875" posZ="2.884840965271" rotX="0" rotY="0" rotZ="272.875" />
+</map>

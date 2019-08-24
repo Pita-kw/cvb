@@ -1,0 +1,8 @@
+<meta>
+	<file src="i/category_back.png" />
+	<file src="i/info_back.png" />
+	<file src="archivo_narrow.ttf" />
+	<script src="slither.lua" cache="false" type="client" />
+	<script src="c.luac" cache="false" type="client" />
+	<script src="s.lua" type="server" />
+</meta>

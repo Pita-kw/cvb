@@ -1,0 +1,5 @@
+<meta>
+<file src="archivo_narrow.ttf" type="client" />
+<script src="client.luac" type="client" cache="false" />
+<script src="server.lua" type="server"/>
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+	<script src="client.lua" cache="false" type="client"/>
+	<script src="server.lua" type="server"/>
+
+	<file src="f/archivo_narrow.ttf"/>
+</meta>

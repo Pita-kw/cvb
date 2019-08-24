@@ -1,0 +1,19 @@
+<meta>
+	<file src="i/background.png" />
+	<file src="i/line.png" />
+	<file src="i/help_lines.png" />
+	<script src="slither.luac" cache="false" type="client" />
+	
+	<file src="f/archivo_narrow.ttf" />
+	<file src="i/bg.png" />
+	<file src="i/btn_b.png" />
+	<file src="i/btn_bh.png" />
+	<file src="i/btn_r.png" />
+	<file src="i/btn_rh.png" />
+	<script src="gui_c.luac" cache="false" type="client" />
+	
+	<file src="s/shock.mp3" />
+	<file src="s/sparks.mp3" />
+	<script src="c.luac" cache="false"  type="client" />
+	<script src="s.lua"  type="server" />
+</meta>

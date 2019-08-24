@@ -1,0 +1,12 @@
+<meta>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	<file src="i/interior_background.png" type="client" />
+	<file src="i/key_info_background.png" type="client" />
+
+	<file src="archivo_narrow.ttf" />
+	<script src="slither.lua" type="server" />
+	<script src="entrance_s.lua" type="server" />
+	<script src="entrance_c.luac" cache="false" type="client" />
+	<script src="entrance_creation_c.luac" cache="false" type="client" />
+	<script src="entrance_creation_s.lua" type="server" />
+</meta>

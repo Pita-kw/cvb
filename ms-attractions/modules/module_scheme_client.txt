@@ -1,0 +1,9 @@
+Module = {} 
+
+-- schemat ten sam co po stronie serwera: strona clienta jest opcjonalna.
+function Module.load()
+end
+
+function Module.stop()
+
+end 

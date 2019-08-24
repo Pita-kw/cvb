@@ -1,0 +1,5 @@
+<meta>
+	<script src="hitman_c.lua" cache="false" type="client"/>
+	<script src="hitman_s.lua" type="server"/>
+	<file src="skull.png"/>
+</meta>

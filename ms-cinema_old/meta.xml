@@ -1,0 +1,9 @@
+<meta>
+	<info author="Houdini" name="Los Santos Cinema" type="script" version="1.0" />
+	<script src="hou_cinemaGUI.luac" type="client"/>
+	<script src="hou_cinemaC.lua" type="client"/>
+	<script src="hou_cinemaS.lua" type="server"/>
+	<file src="background.png" />
+	<file src="tex_matrix.fx" />
+	<file src="UVMod.fx" />
+</meta>

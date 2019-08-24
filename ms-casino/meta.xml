@@ -1,0 +1,46 @@
+<meta>
+	
+	<!-- SERVER SIDE FILES -->
+		<!-- CLASSES -->
+		<script src="server/CSlotmachine.lua" type="server" />
+		<script src="server/Cards.lua" type="server" />
+		<script src="server/Stats.lua" type="server" />
+	
+		<!-- OBJECT CREATOR -->
+		<script src="server/CObjectCreator.lua" type="server" />
+
+	<!-- CLIENT SIDE FILES -->
+		<!-- CLASSES -->
+		<script src="client/CSlotmachine_Settings.lua" type="client" cache="false" />
+		<script src="client/CInteraction_System.lua" type="client" cache="false" />
+		<script src="client/CTexture_Importer.lua" type="client" cache="false" />
+		<script src="client/Cards.lua" type="client" cache="false" />
+		
+		<!-- OBJECT CREATOR -->
+		<script src="client/CObjectCreator.lua" type="client" cache="false" />
+		
+		<!-- Sounds -->
+		<file src="files/sounds/start_machine.mp3" />
+		<file src="files/sounds/win_jackpot.mp3" />
+		<file src="files/sounds/win_nothing.mp3" />
+		<file src="files/sounds/win_stuff.mp3" />
+		<file src="files/sounds/click.wav" />
+		<file src="files/sounds/win.mp3" />
+		<file src="files/sounds/lose.wav" />
+		
+		<!-- Textures -->
+		<file src="files/textures/slot5_ind_2.jpg" />
+		<file src="files/images/win.png" />
+		<file src="files/images/lose.png" />
+		<file src="files/images/neutral.png" />
+		
+		<!-- Shaders -->
+		<file src="files/shaders/texture.fx" />
+		
+	<!-- EXPORTED FUNCTIONS -->
+		<export function="createSlotmachine" type="server" />
+		
+		<map src="maps/virelox_casino.map" dimension="0"></map>
+    <script src="maps/mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="maps/mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

@@ -1,0 +1,94 @@
+<map edf:definitions="csrw,editor_main">
+    <spawntt id="spawntt (1)" interior="1" posX="76.1" posY="2467.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (2)" interior="1" posX="77.1" posY="2467.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (3)" interior="1" posX="78.4" posY="2467.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (4)" interior="1" posX="79.6" posY="2467.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (5)" interior="1" posX="80.6" posY="2467.7" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (6)" interior="1" posX="81.9" posY="2467.7" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (7)" interior="1" posX="83.1" posY="2467.7" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (8)" interior="1" posX="84.2" posY="2467.7" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (9)" interior="1" posX="76.4" posY="2469.7" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (10)" interior="1" posX="77.8" posY="2469.7" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (11)" interior="1" posX="79.2" posY="2469.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (12)" interior="1" posX="80.6" posY="2469.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (13)" interior="1" posX="82" posY="2469.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (14)" interior="1" posX="83.3" posY="2469.5" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (15)" interior="1" posX="84.5" posY="2469.5" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (16)" interior="1" posX="76.3" posY="2471.3" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (17)" interior="1" posX="77.7" posY="2471.5" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (18)" interior="1" posX="79.3" posY="2471.5" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (19)" interior="1" posX="80.8" posY="2471.5" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (20)" interior="1" posX="82.2" posY="2471.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (21)" interior="1" posX="84.5" posY="2471.4" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (22)" interior="1" posX="71.1" posY="2468.4" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (23)" interior="1" posX="71.1" posY="2470.8" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (24)" interior="1" posX="68.9" posY="2470.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (25)" interior="1" posX="68.9" posY="2468.2" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (26)" interior="1" posX="66.4" posY="2468.5" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (27)" interior="1" posX="66.6" posY="2470.9" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (28)" interior="1" posX="64" posY="2470.9" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (31)" interior="1" posX="63.8" posY="2468.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (32)" interior="1" posX="61.6" posY="2468.6" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (33)" interior="1" posX="61.4" posY="2471.1" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (35)" interior="1" posX="59.1" posY="2468.8" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (36)" interior="1" posX="59" posY="2471.4" posZ="210.5" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (37)" interior="1" posX="103.5" posY="2471.8" posZ="207.1" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (38)" interior="1" posX="107.8" posY="2471.9" posZ="207.1" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (39)" interior="1" posX="103.6" posY="2469.4" posZ="207.1" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (40)" interior="1" posX="106.6" posY="2469.6" posZ="207.1" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (41)" interior="1" posX="104.6" posY="2475.2" posZ="207.1" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawntt id="spawntt (42)" interior="1" posX="100.5" posY="2471.2" posZ="207.1" rotX="0" rotY="0" rotZ="0"></spawntt>
+    <spawnct id="spawnct (1)" interior="1" posX="104.2" posY="2555.6" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (2)" interior="1" posX="106.5" posY="2555.4" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (3)" interior="1" posX="108.6" posY="2555.4" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (4)" interior="1" posX="110.4" posY="2555.3" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (5)" interior="1" posX="112.2" posY="2555.4" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (6)" interior="1" posX="112.1" posY="2552.9" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (7)" interior="1" posX="110.4" posY="2552.9" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (8)" interior="1" posX="108.5" posY="2552.8" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (9)" interior="1" posX="106.4" posY="2552.8" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (10)" interior="1" posX="103.8" posY="2553" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (11)" interior="1" posX="104.5" posY="2551" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (12)" interior="1" posX="107.3" posY="2550.7" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (13)" interior="1" posX="109.4" posY="2550.6" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (14)" interior="1" posX="111" posY="2550.8" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (15)" interior="1" posX="112.4" posY="2551" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (16)" interior="1" posX="112" posY="2548.7" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (17)" interior="1" posX="109.7" posY="2548.6" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (18)" interior="1" posX="106.3" posY="2548.5" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (19)" interior="1" posX="102.3" posY="2548.4" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (20)" interior="1" posX="102.7" posY="2547" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (21)" interior="1" posX="107.4004" posY="2547.4" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (22)" interior="1" posX="110.5" posY="2547.6" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (23)" interior="1" posX="112.5" posY="2547.6" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (24)" interior="1" posX="117.5" posY="2547.9" posZ="204.8" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (25)" interior="1" posX="117.2" posY="2550.7" posZ="204.7" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (26)" interior="1" posX="101.5" posY="2550.6" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (27)" interior="1" posX="98.9" posY="2550" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (28)" interior="1" posX="98.6" posY="2548" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (29)" interior="1" posX="100.3" posY="2549.1" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (30)" interior="1" posX="99.8" posY="2546.3" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (31)" interior="1" posX="98" posY="2545.5" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (32)" interior="1" posX="97.3" posY="2547.1" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (33)" interior="1" posX="97.4" posY="2549.1" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (34)" interior="1" posX="104.8" posY="2549.6" posZ="203.6" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (35)" interior="1" posX="122.2" posY="2552.2" posZ="206" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (36)" interior="1" posX="122.5" posY="2550.7" posZ="206" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (37)" interior="1" posX="120.2" posY="2549.3" posZ="205.4" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (38)" interior="1" posX="121.8" posY="2547.7" posZ="205.8" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (39)" interior="1" posX="124.6" posY="2549.8" posZ="206.5" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (40)" interior="1" posX="126.4" posY="2547.5" posZ="207" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (41)" interior="1" posX="127.9" posY="2549.4" posZ="207.1" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (42)" interior="1" posX="126.3" posY="2552.2" posZ="207" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (43)" interior="1" posX="127.6" posY="2550.6" posZ="207.1" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <spawnct id="spawnct (44)" interior="1" posX="122.9" posY="2553.3" posZ="206.2" rotX="0" rotY="0" rotZ="182"></spawnct>
+    <bombsite id="A" size="4" interior="1" posX="131.2" posY="2555.6" posZ="208.7" rotX="0" rotY="0" rotZ="0"></bombsite>
+    <bombsite id="B" size="6" interior="1" posX="56.1" posY="2563" posZ="206.1" rotX="0" rotY="0" rotZ="0"></bombsite>
+
+    <camera interior="1" posX="107.47260284424" posY="2467.3662109375" posZ="214.1763458252" targetX="19.706205368042" targetY="2507.345703125" targetZ="187.74340820313"></camera>
+    <camera interior="1" posX="89.030670166016" posY="2497.4487304688" posZ="212.47236633301" targetX="90.240432739258" targetY="2592.4128417969" targetZ="181.1616973877"></camera>
+    <camera interior="1" posX="105.76072692871" posY="2564.5671386719" posZ="215.33283996582" targetX="185.94995117188" targetY="2516.0847167969" targetZ="180.41651916504"></camera>
+    <camera interior="1" posX="42.294452667236" posY="2539.716796875" posZ="212.36566162109" targetX="102.13174438477" targetY="2614.4521484375" targetZ="183.48448181152"></camera>
+    <camera interior="1" posX="41.447738647461" posY="2522.4924316406" posZ="210.76594543457" targetX="127.66325378418" targetY="2564.1188964844" targetZ="181.884765625"></camera>
+    <camera interior="1" posX="141.8882598877" posY="2573.037109375" posZ="214.34671020508" targetX="90.218635559082" targetY="2493.8359375" targetZ="181.82881164551"></camera>
+</map>

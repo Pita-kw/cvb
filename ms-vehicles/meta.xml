@@ -1,0 +1,35 @@
+<meta>
+	<min_mta_version client="1.3.5" server="1.3.5"/>
+	<oop>true</oop>
+
+	<script src="vehicles_c.luac" type="client" />
+	<script src="vehicles.lua" type="server" />
+	<script src="interact_s.lua" type="server" />
+	<script src="interact_c.luac" cache="false" type="client" />
+	<script src="vehicle_texts.lua" cache="false" type="client" />
+	<export function="showSpeedo" type="client" />
+	<export function="isInteractionEnabled" type="client" /> 
+	
+	<file src="fx/texture.fx" />
+	
+	<file src="i/neon.png" />
+	<script src="neons_c.luac" cache="false" type="client" />
+	
+	<script src="clean_c.lua" type="client" />
+	
+	<script src="suspension_s.lua" type="server" />
+	
+	<file src="f/archivo_narrow.ttf" />
+	
+	<export function="addNewVehicle" type="server" />
+	<export function="hasPlayerKeysToVehicle" type="server" />
+	<export function="getGroupVehicles" type="server" />
+	<export function="getPlayerVehicles" type="server" />
+	<export function="spawnVehicle" type="server" />
+	<export function="unspawnVehicle" type="server" />
+	<export function="saveVehicle" type="server" />
+	<export function="trackVehicle" type="server" />
+	<export function="saveVehiclePosition" type="server" />
+	<export function="getVehicleFromUID" type="server" />
+	<export function="lockVehicle" type="server" />
+</meta>

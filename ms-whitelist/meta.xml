@@ -1,0 +1,7 @@
+<meta>
+	<script src="whitelist.lua" type="server"/>
+	
+	<export function="setWhitelistEnabled" type="server" />
+	<export function="existsPlayerInWhitelist" type="server" />
+	<export function="addPlayerToWhiteList" type="server" />
+</meta>

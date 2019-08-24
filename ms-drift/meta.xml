@@ -1,0 +1,15 @@
+<meta>
+	<info author="50p" version="1.0" type="script" name="50p - Drift" description="Drift score resource" />
+	<script src="class_vector2.lua" type="client" />
+	<script src="class_vector3.lua" type="client" />
+	<script src="c_main.luac" type="client" />
+	<script src="c_colours.lua" type="client" />
+	<script src="client_anim.lua" type="client" />
+	<script src="textlib.lua" type="client" />
+	<script src="textlib_anim.lua" type="client" />
+	<file src="images/drift_gauge.png" />
+	<file src="images/needle.png" />
+	<file src="digitalism.ttf" />
+	<script src="c_drift.luac" type="client" />
+	<script src="s_drift.lua" type="server" />
+</meta>

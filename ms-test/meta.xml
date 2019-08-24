@@ -1,0 +1,9 @@
+<meta>
+	<script src="test_s.lua" type="server" />
+	<script src="test_c.lua" cache="false" type="client" />
+	<file src="ring6.png" />
+	<file src="oski.jpg" />
+	<file src="allah.mp3" />
+	<file src="dnmolc1.txd" />
+	<file src="dnmolc1.dff" />
+</meta>

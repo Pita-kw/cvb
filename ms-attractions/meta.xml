@@ -1,0 +1,146 @@
+<meta>
+	<info author="Brzysiek" name="MultiServer - Atrakcje" version="1.0" />
+	 <download_priority_group>-1</download_priority_group>
+	 
+	<!-- Modu³y -->
+	<!-- TDM -->
+	<file src="maps/tdm-medieval/medieval.map" type="server" />
+	<file src="maps/tdm-vinewood/vinewood.map" type="server" />
+	<file src="maps/tdm-gridlock/gridlock.map" type="server" />
+	<file src="maps/tdm-damwars/damwars.map" type="server" />
+	
+	<script src="modules/tdm_c.luac" cache="false" type="client" />
+	<script src="modules/tdm_s.lua" type="server" />
+	
+	<!-- Hydra Wars -->
+	<script src="modules/hw_c.luac" cache="false" type="client" />
+	<script src="modules/hw_s.lua" type="server" />
+	
+	<!-- Race --> 
+	<file src="maps/race-driftcity/driftcity.map" type="server" />
+	
+	<file src="maps/race-snow/map.map" type="server" /> 
+	<script src="maps/race-snow/3dmodel.lua" type="client" />
+	<file src="maps/race-snow/Files/3dmodel.col" type="server" /> 
+	<file src="maps/race-snow/Files/3dmodel.dff" type="server" />
+	<file src="maps/race-snow/Files/3dmodel.txd" type="server" />
+	<file src="maps/race-snow/Files/cmodel.dff" type="server" /> 
+	<file src="maps/race-snow/Files/cmodel.txd" type="server" /> 
+	
+	<script src="maps/race-f1/3dmodel.lua" type="client" />
+	<file src="maps/race-f1/map.map" type="server" /> 
+	<file src="maps/race-f1/Files/3dmodel.col" type="server" /> 
+	<file src="maps/race-f1/Files/3dmodel.dff" type="server" />
+	<file src="maps/race-f1/Files/3dmodel.txd" type="server" /> 	
+	<file src="maps/race-f1/Files/3dmodel1.col" type="server" /> 
+	<file src="maps/race-f1/Files/3dmodel1.dff" type="server" /> 
+	<file src="maps/race-f1/Files/cmodel.dff" type="server" /> 
+	<file src="maps/race-f1/Files/cmodel.txd" type="server" /> 
+
+	<script src="maps/race-death/3dmodel.lua" type="client" />
+	<file src="maps/race-death/map.map" type="server" />
+	<file src="maps/race-death/Files/road.col" type="client" />
+	<file src="maps/race-death/Files/road.dff" type="client" />
+	<file src="maps/race-death/Files/road.txd" type="client" />
+	
+	
+	<file src="maps/race-luigicircuit/3dmodel.lua" type="client" />
+    <file src="maps/race-luigicircuit/Files/luigi1.txd" type="client" />
+    <file src="maps/race-luigicircuit/Files/luigi1.dff" type="client" />
+    <file src="maps/race-luigicircuit/Files/luigi1.col" type="client" />
+    <file src="maps/race-luigicircuit/Files/luigi2.dff" type="client" />
+    <file src="maps/race-luigicircuit/Files/luigi2.col" type="client" />
+    <file src="maps/race-luigicircuit/Files/kart.dff" type="client" />
+    <file src="maps/race-luigicircuit/Files/kart.txd" type="client" />
+	<file src="maps/race-luigicircuit/luigi.map" type="server" />
+	
+	<file src="maps/race-lvsprint/map.map" type="server" />
+	<file src="maps/race-bloodring/map.map" type="server" />
+	<file src="maps/race-farm2city/map.map" type="server" />
+	<file src="maps/race-awalk/map.map" type="server" />
+	<file src="maps/race-bobcat/map.map" type="server" />
+	<file src="maps/race-santosdrive/map.map" type="server" />
+	
+	<script src="modules/race_s.lua" type="server" />
+	<script src="modules/race_c.luac" cache="false" type="client" />
+	
+	<file src="maps/carball-sandy/sandy.txd" type="client" />
+	<file src="maps/carball-sandy/sandy.dff" type="client" />
+	<file src="maps/carball-sandy/sandy.col" type="client" />
+	
+	<file src="modules/files/ball.png" type="client" />
+	<file src="modules/files/goal.mp3" type="client" />
+	<file src="modules/files/hit.wav" type="client" />
+	<file src="modules/files/ballcollision.dff" type="client" />
+	<file src="modules/files/balltexture.dff" type="client" />
+	<file src="modules/files/balltexture1.txd" type="client" />
+	<file src="modules/files/terrain.fx" type="client" />
+	<script src="modules/carball_c.luac" cache="false" type="client" />
+	<script src="modules/carball_s.lua" type="server" />
+	
+	<!-- Derby -->
+	<file src="maps/derby-fucktheloop/map.map" type="server" />
+	<file src="maps/derby-locateddemolition/map.map" type="server" />
+	<file src="maps/derby-minecrash/Files/road.dff" type="client" />
+    <file src="maps/derby-minecrash/Files/road.col" type="client" />
+    <file src="maps/derby-minecrash/Files/road.txd" type="client" />
+	<file src="maps/derby-minecrash/map.map" type="server" />
+    <file src="maps/derby-minecrash/3dmodel.lua" type="client" />
+	<file src="maps/derby-minecrash2/Files/road.dff" type="client" />
+    <file src="maps/derby-minecrash2/Files/road.col" type="client" />
+    <file src="maps/derby-minecrash2/Files/road.txd" type="client" />
+	<file src="maps/derby-minecrash2/map.map" type="server" />
+    <file src="maps/derby-minecrash2/3dmodel.lua" type="client" />
+	<file src="maps/derby-nfs/map.map" type="server" />
+	<file src="maps/derby-shadow/Files/road.dff" type="client" />
+    <file src="maps/derby-shadow/Files/road.col" type="client" />
+    <file src="maps/derby-shadow/Files/road.txd" type="client" />
+	<file src="maps/derby-shadow/map.map" type="server" />
+    <file src="maps/derby-shadow/3dmodel.lua" type="client" />
+	<file src="maps/derby-shukaku/Files/road.dff" type="client" />
+    <file src="maps/derby-shukaku/Files/road.col" type="client" />
+    <file src="maps/derby-shukaku/Files/road.txd" type="client" />
+	<file src="maps/derby-shukaku/map.map" type="server" />
+    <file src="maps/derby-shukaku/3dmodel.lua" type="client" />
+		
+	<!-- Devana --> 
+	<file src="maps/derby-ancient/ancient.map" type="server" />
+	<file src="maps/derby-avci/avci.map" type="server" />
+	<file src="maps/derby-fnsh/fnsh.map" type="server" />
+	<file src="maps/derby-kamikaze/kamikaze.map" type="server" />
+	<file src="maps/derby-laviva/laviva.map" type="server" /> 
+	<file src="maps/derby-smalldd/smalldd.map" type="server" />
+	<file src="maps/derby-utopia/utopia.map" type="server" />
+	
+	<script src="modules/derby_c.luac" cache="false" type="client" />
+	<script src="modules/derby_s.lua" type="server" />
+	
+	<!-- Chowany -->
+	<script src="modules/hidenseek_c.luac" cache="false" type="client" />
+	<script src="modules/hidenseek_s.lua" type="server" />
+	
+	<!-- Uwa¿aj spadasz -->
+	<script src="modules/us_c.luac" cache="false" type="client" />
+	<script src="modules/us_s.lua" type="server" />
+	
+	<!-- Berek -->
+	<script src="modules/berek_c.luac" cache="false" type="client" />
+	<script src="modules/berek_s.lua" type="server" />
+	
+	<!-- Capture the Flag -->
+	<script src="modules/ctf_c.luac" cache="false" type="client" />
+	<script src="modules/ctf_s.lua" type="server" />
+	
+	<!-- Rdzeñ --> 
+	<file src="archivo_narrow.ttf" type="client" />
+	<file src="cup.png" type="client" />
+	<script src="core_c.luac" cache="false" type="client" />
+	<script src="core_s.lua" type="server" />
+	<export function="respawnPlayerOnAttraction" type="server" />
+	
+	<script src="utils_c.luac" cache="false" type="client" />
+	<script src="utils_s.lua" type="server" />
+	
+	<export function="getInterfacePosition" type="client" />
+	<export function="getInterfaceZoom" type="client" />
+</meta>

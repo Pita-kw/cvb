@@ -1,0 +1,12 @@
+<meta>
+	<file src="img/position.png" />
+	<file src="img/rotation.png" />
+	<file src="img/save.png" />
+	<file src="img/attach.png" />
+	<file src="img/close.png" />
+
+	<script src="slither.luac" cache="false" type="client" />
+	<script src="editor_c.luac" cache="false" type="client" />
+	<script src="editor_s.lua" type="server" />
+	<map src="objects.map" type="server" />
+</meta>

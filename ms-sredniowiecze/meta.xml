@@ -1,0 +1,28 @@
+<meta>
+	<file src="models/handlarka.txd" type="client" />
+	<file src="models/handlarka.dff" type="client" />
+	<file src="models/mysliwy.txd" type="client" />
+	<file src="models/mysliwy.dff" type="client" />
+	<file src="models/straznik.txd" type="client" />
+	<file src="models/straznik.dff" type="client" />
+	<file src="models/zona.txd" type="client" />
+	<file src="models/zona.dff" type="client" />
+	<file src="models/triss.txd" type="client" />
+	<file src="models/triss.dff" type="client" />
+	<file src="models/kon.txd" type="client" />
+	<file src="models/kon.dff" type="client" />
+	<file src="models/lodz.txd" type="client" />
+	<file src="models/lodz.dff" type="client" />
+	
+	<file src="archivo_narrow.ttf" type="client" />
+	
+	<script src="peds_c.lua" type="client" />
+	<script src="peds_s.lua" type="server" />
+
+	<script src="npc_c.lua" type="client" />
+	<script src="npc_s.lua" type="server" />
+	
+	<script src="level_c.lua" type="client" />
+	
+	<script src="music_c.lua" type="client" />
+</meta>

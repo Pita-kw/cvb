@@ -1,0 +1,6 @@
+<meta>
+	<file src="archivo_narrow.ttf" type="client" />
+	<file src="vehicles.xml" type="client" />
+	<script src="c.lua" cache="false" type="client" />
+	<script src="s.lua" type="server" />
+</meta>

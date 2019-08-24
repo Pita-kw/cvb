@@ -1,0 +1,7 @@
+<meta>
+	<file src="archivo_narrow.ttf" type="client" />
+	<file src="img/border.png" type="client" />
+	<file src="img/circle.png" type="client" />
+	<script src="c.luac" cache="false" type="client" />
+	<export function="isScoreboardShowing" type="client" />
+</meta>

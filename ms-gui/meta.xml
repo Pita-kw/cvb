@@ -1,0 +1,51 @@
+<meta>
+	<download_priority_group>20</download_priority_group>
+	<min_mta_version client="1.5" />
+	
+	<file src="img/loading.png" type="client" />
+	<script src="loading_c.luac" cache="false" type="client" /> 
+	<export function="renderLoading" type="client" /> 
+	
+	<script src="edit_c.lua" cache="false" type="client" />
+	<export function="createEditBox" type="client" />
+	<export function="getEditBoxText" type="client" />
+	<export function="isEditBoxActive" type="client" />
+	<export function="setEditBoxHelperText" type="client" />
+	<export function="setEditBoxColor" type="client" />
+	<export function="setEditBoxMaxLength" type="client" />
+	<export function="setEditBoxMasked" type="client" />
+	<export function="setEditBoxASCIIMode" type="client" />
+	<export function="renderEditBox" type="client" />
+	<export function="destroyEditBox" type="client" />
+
+	<!-- Blur -->
+	<script src="blur_c.luac" cache="false" type="client" />
+	<file src="shaders/mta-helper.fx" type="client" />
+	<file src="shaders/fxBlurH.fx" type="client" />
+	<file src="shaders/fxBlurV.fx" type="client" />
+	<file src="shaders/blackwhite.fx" type="client" />
+	<export function="dxDrawBluredRectangle" type="client" />
+	
+	<!-- Lista -->
+	<script src="list_c.luac" cache="false" type="client" />
+	<export function="createList" type="client" />
+	<export function="addListColumn" type="client" />
+	<export function="addListItem" type="client" />
+	<export function="renderList" type="client" />
+	<export function="getSelectedListIndexPosition" type="client" />
+	<export function="getSelectedListItemsIndex" type="client" />
+	<export function="getSelectedListItemsCount" type="client" />
+	<export function="destroyList" type="client" />
+	<export function="setListActive" type="client" />
+	<export function="clearList" type="client" />
+	<export function="reloadListRT" type="client" />
+	<export function="setListItemColor" type="client" />
+	
+	<!-- Scroll -->
+	<script src="scroll_c.luac" cache="false" type="client" />
+	<export function="createScroll" type="client" />
+	<export function="destroyScroll" type="client" />
+	<export function="renderScroll" type="client" />
+	<export function="getScrollProgress" type="client" /> 
+	<export function="moveScroll" type="client" />
+</meta>

@@ -1,0 +1,42 @@
+<meta>
+	<info name="Meme" author="Ren712" version="2.01" type="script" />
+	<settings>
+		<setting name="*ForcePlayer" value="true" />
+	</settings>
+	<file src="colorpicker/palette.png" type="client" />
+	<file src="colorpicker/alpha.png" type="client" />
+	<script src="colorpicker/colorpicker.lua" type="client" />
+
+	<script src="c_meme.lua" type="client" />
+	<script src="s_meme.lua" type="server" />
+	<config src="faces.xml" type="client" />
+	<file src="fx/image4D.fx" type="client" />
+
+	<file src="heads/angry.png" type="client" />
+	<file src="heads/awesome.png" type="client" />
+	<file src="heads/challenge.png" type="client" />
+	<file src="heads/derpina.png" type="client" />
+	<file src="heads/derrp.png" type="client" />
+	<file src="heads/determined.png" type="client" />
+	<file src="heads/disappoint.png" type="client" />
+	<file src="heads/fair_enough.png" type="client" />
+	<file src="heads/forever_alone.png" type="client" />
+	<file src="heads/f_yeah.png" type="client" />
+	<file src="heads/horror.png" type="client" />
+	<file src="heads/laughing.png" type="client" />
+	<file src="heads/lol_guy.png" type="client" />
+	<file src="heads/me_gusta.png" type="client" />
+	<file src="heads/okay.png" type="client" />
+	<file src="heads/pffft.png" type="client" />
+	<file src="heads/poker_face.png" type="client" />
+	<file src="heads/rage.png" type="client" />
+	<file src="heads/sad_troll.png" type="client" />
+	<file src="heads/smile.png" type="client" />
+	<file src="heads/sweaty.png" type="client" />
+	<file src="heads/troll_dad.png" type="client" />
+	<file src="heads/troll_face.png" type="client" />
+	<file src="heads/wat.png" type="client" />
+	<file src="heads/well.png" type="client" />
+	<file src="heads/we_have_a_badass.png" type="client" />
+	<file src="heads/y_u_no.png" type="client" />
+</meta>

@@ -1,0 +1,27 @@
+<meta>
+	<file src="icons/account.png" type="client" />
+	<file src="icons/gang.png" type="client" />
+	<file src="icons/settings.png" type="client" />
+	<file src="icons/vehicles.png" type="client" />
+	<file src="icons/shop.png" type="client" />
+	<file src="icons/achievements.png" type="client" />
+	<file src="icons/stats.png" type="client" />
+	<file src="icons/avatar.png" type="client" />
+	<file src="icons/email.png" type="client" />
+	<file src="icons/nickname.png" type="client" /> 
+	<file src="icons/password.png" type="client" /> 
+	<file src="icons/max_speed.png" type="client" />
+	<file src="icons/vip.png" type="client" />
+	<file src="icons/stable.png" type="client" /> 
+	<file src="icons/graphic_settings.png" type="client" /> 
+	<file src="icons/personal_settings.png" type="client" /> 
+	<file src="icons/sounds_settings.png" type="client" /> 
+	<file src="images/switch_back.png" type="client" /> 
+	<file src="images/switch_off.png" type="client" /> 
+	<file src="images/switch_on.png" type="client" /> 
+	<file src="fonts/BebasNeue.otf" type="client" />
+	<file src="fonts/archivo_narrow.ttf" type="client" />
+	<script src="c.luac" type="client" cache="false" />
+	<script src="shaders_c.lua" type="client" cache="false" />
+	<script src="s.lua" type="server" />
+</meta>

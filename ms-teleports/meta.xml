@@ -1,0 +1,6 @@
+<meta>
+	<file src="archivo_narrow.ttf" type="client" />
+	<script src="c.lua" cache="false" type="client" />
+	<script src="s.lua" type="server" />
+	<export function="getRandomTeleport" type="server" />
+</meta>

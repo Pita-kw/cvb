@@ -1,0 +1,32 @@
+<meta>
+	<file src="archivo_narrow.ttf" type="client" />
+	<script src="killcam_c.luac" cache="false" type="client" />
+	<script src="killcam_s.lua" type="server" />
+	<script src="commands.lua" type="server" />
+	<script src="level_s.lua" type="server" />
+	<script src="level_c.luac" cache="false" type="client" />
+	<export function="msGiveExp" type="server" />
+	<export function="msGiveMoney" type="server" />
+	<export function="msTakeMoney" type="server" />
+	<export function="msGetTotalExp" type="client" />
+	<export function="msGetTotalExp" type="server" />
+	
+	<script src="s.lua" type="server" />
+	<script src="c.lua" type="client" cache="false" />
+	
+	<script src="spawn_s.lua" type="server" />
+	<export function="ms_spawnPlayer" type="server" />
+	<export function="givePlayerWeaponLevel" type="server" />
+	
+	<script src="afk_c.luac" cache="false" type="client" />
+	<script src="playtime_c.luac" cache="false" type="client" />
+	
+	<script src="ann_c.lua" cache="false" type="client" /> 
+	<script src="ann_s.lua" type="server" />
+	
+	<script src="nos_c.lua" cache="false" type="client" />
+	<script src="nos_s.lua" type="server" />
+	
+	<script src="countdown_c.lua" cache="false" type="client" />
+	<script src="countdown_s.lua" cache="false" type="server" />
+</meta>

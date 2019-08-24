@@ -1,0 +1,5 @@
+<meta>
+	<file src="font.ttf" type="client" />
+	<file src="circle.png" type="client" />
+	<script src="c.luac" cache="false" type="client" />
+</meta>

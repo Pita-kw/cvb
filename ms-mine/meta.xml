@@ -1,0 +1,13 @@
+<meta>
+	<file src="m/katana.txd" />
+	<file src="m/katana.dff" />
+	<file src="i/bg.png" />
+	<file src="i/btn_b.png" />
+	<file src="i/btn_bh.png" />
+	<file src="i/btn_r.png" />
+	<file src="i/btn_rh.png" />
+	<file src="f/archivo_narrow.ttf" />
+	<script src="c.luac" cache="false" type="client" />
+	<script src="s.lua" type="server" />
+	<map src="map.map" type="server" />
+</meta>

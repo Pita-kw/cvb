@@ -1,0 +1,18 @@
+<meta>
+   <script src="fele.luac" cache="false" type="client" />
+  <file src="txd/1073.txd" />
+  <file src="txd/1075.txd" />
+  <file src="txd/1079.txd" />
+  <file src="txd/1096.txd" />
+  <file src="txd/1098.txd" />
+  <file src="txd/fele.txd" />
+  <file src="dff/1073.dff" />
+  <file src="dff/1076.dff" />
+  <file src="dff/1079.dff" />
+  <file src="dff/1080.dff" />
+  <file src="dff/1083.dff" />
+  <file src="dff/1085.dff" />
+  <file src="dff/1096.dff" />
+  <file src="dff/1098.dff" />
+ 
+</meta>
